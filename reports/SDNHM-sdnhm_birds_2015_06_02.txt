@@ -1,0 +1,269 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 1518
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 12
+	Country: Chile ; Times: 5
+	Country: Czech Republic ; Times: 11
+	Country: Germany ; Times: 8
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 131
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 8
+	Date: 2015-05-07 ; Times: 15
+	Date: 2015-05-08 ; Times: 5
+	Date: 2015-05-09 ; Times: 7
+	Date: 2015-05-10 ; Times: 9
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 27
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 11
+	Date: 2015-05-15 ; Times: 18
+	Date: 2015-05-16 ; Times: 2
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 9
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 12
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-22 ; Times: 7
+	Date: 2015-05-23 ; Times: 5
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 7
+	Date: 2015-05-28 ; Times: 20
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus flammeus" ; Times: 3
+	Query: "vermivora bachmanii" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 2
+	Query: "30758" ; Times: 1
+	Query: "aves Georgia United States Vireo olivaceus" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "mitu tuberosum" ; Times: 2
+	Query: "dendrocitta leucogastra" ; Times: 2
+	Query: "rupicola rupicola tissue:1" ; Times: 1
+	Query: "piranga institutioncode:SDNHM tissue:1" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga tissue:1" ; Times: 1
+	Query: "collinson stateprovince:"alaska" class:aves recordedby:pat year >= 1933 year <= 1933" ; Times: 1
+	Query: "distance(location,geopoint(30.13721055991247,-102.4090576171875))<15652" ; Times: 1
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 1
+	Query: "fulica gigantea" ; Times: 1
+	Query: "genus:rupicola tissue:1" ; Times: 1
+	Query: "pulsatrix institutioncode:SDNHM" ; Times: 1
+	Query: "psittacula finschii type:specimen" ; Times: 1
+	Query: "Spizella pallida Baja California" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 5
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 4
+	Query: "Oceanodroma willetti" ; Times: 1
+	Query: "Pipra chloromeros" ; Times: 2
+	Query: "aves Georgia United States Troglodytes aedon" ; Times: 1
+	Query: "Aeronautes tissue:1" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 4
+	Query: "psittacula eupatria" ; Times: 2
+	Query: "Spizella pallida+Baja California" ; Times: 2
+	Query: "SDNHM clarkae" ; Times: 2
+	Query: ""Limnodromus griseus" year >= 1924 year <= 1924" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: ""Chen caerulescens" stateprovince:"Alaska"" ; Times: 1
+	Query: "Spizella pallida United States Oregon" ; Times: 2
+	Query: "vireo bellii california san bernardino" ; Times: 1
+	Query: "gallicolumba criniger" ; Times: 1
+	Query: "gallicolumba criniger skin" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "aves Georgia United States Troglodytes troglodytes" ; Times: 1
+	Query: "Megalaima javensis SKIN" ; Times: 1
+	Query: "aves Georgia United States Vireo griseus" ; Times: 1
+	Query: "genus:Platylophus" ; Times: 1
+	Query: "calypte anna tissue:1" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "J.S. Rowley" ; Times: 1
+	Query: "falco sparverius interstate type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "Megalaima armillaris skin" ; Times: 1
+	Query: "gallicolumba platenae" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "vireo flavoviridis" ; Times: 2
+	Query: "haliaeetus leucoryphus" ; Times: 2
+	Query: "Megalaima skin India" ; Times: 1
+	Query: "zarcero" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "aves Georgia United States Passerella iliaca" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "Pachyramphus castaneus" ; Times: 2
+	Query: "Cistothorus palustris county:San Diego year >= 1960 year <= 2015" ; Times: 1
+	Query: "Eudromias morinellus" ; Times: 1
+	Query: "Cistothorus palustris institutioncode:SDNHM tissue:1" ; Times: 1
+	Query: "Chihuahua Spizella pallida" ; Times: 1
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "Spizella+pallida+Baja California" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "pulsatrix" ; Times: 1
+	Query: "Rattus rattus county:"San Diego"" ; Times: 1
+	Query: "Oceanodroma willetti year >= 1913 year <= 1913" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 2
+	Query: "Cistothorus palustris tissue:1" ; Times: 1
+	Query: "Psilopogon skin" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "clamator coromandus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "aves Georgia United States Progne subis" ; Times: 2
+	Query: "rupicola tissue:1" ; Times: 2
+	Query: "Spizella pallida United States California" ; Times: 2
+	Query: "Cistothorus palustris clarkae" ; Times: 2
+	Query: "pterocles exustus" ; Times: 6
+	Query: "aves Georgia United States bewickii" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: ""chen caerulescens" tissue:1" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "aves Georgia United States serripennis" ; Times: 1
+	Query: ""Setophaga kirtlandii" type:specimen" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee AND (NOT dmns NOT dmnh)" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "Troglodytes obscurior" ; Times: 8
+	Query: "Cistothorus palustris type:specimen tissue:1" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:americanus genus:coccyzus year >= 1915 year <= 1915" ; Times: 1
+	Query: "Westmorland tissue:1" ; Times: 1
+	Query: "falco sparverius road type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "Agelaius phoeniceus tissue:1" ; Times: 1
+	Query: "genus:Platylophus tissue:1" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Phoebastria immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "Spizella+pallida+United States+California" ; Times: 1
+	Query: "institutioncode:SDNHM tissue:1" ; Times: 2
+	Query: "aves Georgia United States Cistothorus palustris" ; Times: 1
+	Query: "Megalaima javensis" ; Times: 1
+	Query: "piranga institutioncode:SDNHM" ; Times: 2
+	Query: "cyanopectus" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "Otidiphaps nobilis" ; Times: 6
+	Query: "Campephilus imperialis Chihuahua" ; Times: 2
+	Query: "Cistothorus palustris institutioncode:SDNHM" ; Times: 2
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "zoothera dauma" ; Times: 2
+	Query: "institutioncode:SDNHM" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 2
+	Query: "Spizella pallida Mexico Chihuahua" ; Times: 1
+	Query: "Picus viridanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 976 download events in this period)
+Total number of records downloaded: 19430 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9453
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 7
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: ""Passer domesticus" type:specimen tissue:1" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 195
+Total number of records retrieved from searches: 1518
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 19430
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 195
+Total number of records retrieved from searches: 1518
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 19430
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
