@@ -1,0 +1,405 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 363
+Number of records retrieved in searches: 3441
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Poland ; Times: 2
+	Country: India ; Times: 5
+	Country: Venezuela ; Times: 5
+	Country: Papua New Guinea ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Thailand ; Times: 2
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 292
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-09 ; Times: 5
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-11 ; Times: 19
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-14 ; Times: 16
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 15
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 20
+	Date: 2015-09-30 ; Times: 100
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-07 ; Times: 10
+	Date: 2015-09-06 ; Times: 34
+	Date: 2015-09-05 ; Times: 10
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 16
+	Date: 2015-09-28 ; Times: 11
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-25 ; Times: 9
+	Date: 2015-09-24 ; Times: 8
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 37
+	Date: 2015-09-21 ; Times: 6
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Phalcoboenus (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 4
+	Query: "dendrocitta leucogastra" ; Times: 18
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(28.3802369569,-112.449505705))&lt;10000" ; Times: 1
+	Query: "selasphorus sasin institutioncode:SDNHM" ; Times: 2
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ NOT USNM NOT LACM NOT ANSP)" ; Times: 1
+	Query: "pachyramphus cinereiventris" ; Times: 2
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "distance(location,geopoint(25.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:rubrifrons genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.7802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 5
+	Query: "Phoebastria irrorata" ; Times: 3
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "R.30826" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; specificepithet:stelleri genus:cyanocitta tissue:1" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "gorilla" ; Times: 3
+	Query: "zosterops palpebrosa" ; Times: 3
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:SDNHM (skin)" ; Times: 1
+	Query: "catalognumber:10273 institutioncode:SDNHM" ; Times: 2
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "distance(location,geopoint(25.1802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "corythaeola skin" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;canada&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "polyplectron bicalcaratum" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "Certhia americana phillipsi" ; Times: 1
+	Query: "descanso" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Ptychoramphus aleuticus skel*" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 2
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "lagopus leucura" ; Times: 3
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(28.6802369569,-112.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.4802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:SDNHM (skin)" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Neophron" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 34
+	Query: "distance(location,geopoint(25.5802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "buceros bicornis" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "musophagidae tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "Descanso" ; Times: 1
+	Query: "Egretta tissue:1" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "megalaima skeleton" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "uria lomvia type:specimen institutioncode:SDNHM (skin)" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "vultur" ; Times: 17
+	Query: "lorius (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 2
+	Query: "genus:megascops tissue:1" ; Times: 2
+	Query: "lophophorus impejanus" ; Times: 2
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:16274 institutioncode:SDNHM" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "cairina scutulata skeleton" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "distance(location,geopoint(28.6802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-112.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "zarcero" ; Times: 1
+	Query: "distance(location,geopoint(29.5802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "Aptenodytes (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Massachusetts&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "Thinocorus (skel OR skeleton)" ; Times: 1
+	Query: "rupicola tissue:1" ; Times: 1
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 2
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 3
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.1802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "pavo muticus" ; Times: 1
+	Query: "netta erythrophthalma skeleton" ; Times: 2
+	Query: "gryphus" ; Times: 2
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-112.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; genus:cyanocitta tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "rhodopis vesper" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "Psittacidae type:specimen institutioncode:SDNHM" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "Schwenkmeyer" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 2
+	Query: "distance(location,geopoint(24.7802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "beaver (san diego)" ; Times: 1
+	Query: "Ploceus baglafecht tissue:1" ; Times: 1
+	Query: "aethia pusilla type:specimen institutioncode:SDNHM (skin)" ; Times: 1
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "distance(location,geopoint(26.1802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "skeleton type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "type:specimen genus:Plectrophenax tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-111.049505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 1045 download events in this period)
+Total number of records downloaded: 14137
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 2
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-02 ; Times: 7
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 5
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 8
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Massachusetts&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+
+
+End of report.
