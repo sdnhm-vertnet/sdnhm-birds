@@ -1,0 +1,302 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 1530
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 36
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 20
+	Country: France ; Times: 4
+	Country: United States ; Times: 129
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Japan ; Times: 12
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 18
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 11
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-11 ; Times: 8
+	Date: 2015-11-10 ; Times: 14
+	Date: 2015-11-13 ; Times: 13
+	Date: 2015-11-12 ; Times: 25
+	Date: 2015-11-15 ; Times: 6
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 4
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 19
+	Date: 2015-11-21 ; Times: 4
+	Date: 2015-11-22 ; Times: 3
+	Date: 2015-11-23 ; Times: 6
+	Date: 2015-11-09 ; Times: 15
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 17
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-26 ; Times: 9
+	Date: 2015-11-01 ; Times: 2
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-07 ; Times: 3
+	Date: 2015-11-04 ; Times: 22
+	Date: 2015-11-05 ; Times: 11
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "23206" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "Salpinctes locality:Cedros" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (stigmatus)" ; Times: 3
+	Query: "Oceanodroma leucorhoa Prince" ; Times: 1
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 8
+	Query: "specificepithet:albicollis genus:zonotrichia year &gt;= 1890 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Catherpes tissue:1" ; Times: 1
+	Query: "Geronticus eremita" ; Times: 2
+	Query: "family:Cracidae class:Aves country:&#34;Brazil&#34; year &gt;= 1900 year &lt;= 1999" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "class:aves locality:corpus christi year &gt;= 1899 year &lt;= 1899 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (ophthalmica)" ; Times: 1
+	Query: "type:specimen genus:Ara order:Psittaciformes (militaris)" ; Times: 1
+	Query: "genus:Alopochen preparations:skeleton" ; Times: 1
+	Query: "SDNHM 35623" ; Times: 1
+	Query: "Rhynochetos" ; Times: 2
+	Query: "Lophura bulweri" ; Times: 1
+	Query: "balearica tissue" ; Times: 1
+	Query: "Andigena cucullata" ; Times: 2
+	Query: "Himantopus himantopus tissue:1" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (himalayana)" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Aimophila aestivalis institutioncode:SDNHM" ; Times: 1
+	Query: "Conuropsis Florida" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (himalayana) year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Passerculus year &lt;= 1894 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:cucullata genus:Lonchura tissue:1" ; Times: 3
+	Query: "polyplectron bicalcaratum" ; Times: 4
+	Query: "urocolius tissue:1" ; Times: 4
+	Query: "Tachycineta cyaneoviridis type:specimen sex:male" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (agilis)" ; Times: 2
+	Query: "genus:megaceryle class:aves AND (not alcyon) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen genus:Chloropsis tissue:1" ; Times: 1
+	Query: "type:specimen genus:Prioniturus order:Psittaciformes (platenae)" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 2
+	Query: "mummy" ; Times: 3
+	Query: "28850" ; Times: 1
+	Query: "eupodotis tissue:1" ; Times: 2
+	Query: "strigiformes type:specimen institutioncode:SDNHM" ; Times: 1
+	Query: "Astrapia mayeri" ; Times: 1
+	Query: "genus:Sarkidiornis preparations:skeleton" ; Times: 1
+	Query: "genus:Amazonetta preparations:skeleton" ; Times: 1
+	Query: "Lampornis castaneoventris calolaema" ; Times: 1
+	Query: "Tyrannus melancholicus tissue:1" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "genus:Marmaronetta preparations:skeleton" ; Times: 1
+	Query: "Salpinctes locality:San Martin" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "witch" ; Times: 7
+	Query: "type:specimen order:Psittaciformes (Psittacula finschii)" ; Times: 1
+	Query: "genus:Speculanas preparations:skeleton" ; Times: 1
+	Query: "Zealand year &gt;= 1830 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (taranta)" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "genus:Dendrocygna preparations:skeleton" ; Times: 1
+	Query: "Mycteria cinerea" ; Times: 1
+	Query: "Procnias tissue:1" ; Times: 1
+	Query: "cerorhinca tissue:1" ; Times: 1
+	Query: "garrulax gularis" ; Times: 2
+	Query: "Synthliboramphus Guadalupe" ; Times: 20
+	Query: "22626" ; Times: 1
+	Query: "SDNHM 35263" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "Elanus tissue:1" ; Times: 2
+	Query: "Myrmeciza loricata" ; Times: 1
+	Query: "SDNHM 35264" ; Times: 2
+	Query: "specificepithet:erythrorhyncha genus:Anas tissue:1" ; Times: 1
+	Query: "genus:Tachyeres" ; Times: 1
+	Query: "genus:lophophorus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (ochrocephala)" ; Times: 2
+	Query: "10993" ; Times: 1
+	Query: "coua tissue:1" ; Times: 6
+	Query: "sula leucogaster" ; Times: 3
+	Query: "Phaenicophaeus tissue:1" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "eurynorhynchus pygmeus" ; Times: 2
+	Query: "Corythaeola cristata tissue:1" ; Times: 2
+	Query: "salpinctes obsoletus tissue:1" ; Times: 2
+	Query: "Elanus leucurus tissue:1" ; Times: 1
+	Query: "Erythrogenys erythrogenys tissue:1" ; Times: 1
+	Query: "Chaetura tissue:1" ; Times: 1
+	Query: "clamator coromandus" ; Times: 1
+	Query: "Philydor rufus" ; Times: 3
+	Query: "28860" ; Times: 1
+	Query: "Numenius borealis" ; Times: 9
+	Query: "28862" ; Times: 1
+	Query: "Salpinctes obsoletus locality:Guadalupe" ; Times: 1
+	Query: "MA 102" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile year &gt;= 1815 year &lt;= 1915" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (himalayana)" ; Times: 1
+	Query: "Rhynochetos tissue" ; Times: 2
+	Query: "Aimophila aestivalis preparations:Skin institutioncode:SDNHM" ; Times: 1
+	Query: "Andigena cucullata type:specimen preparations:skin" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (splendens)" ; Times: 2
+	Query: "genus:Eupodotis tissue:1" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "catalognumber:35669 institutioncode:SDNHM" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza preparations:skin year &gt;= 1990 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "rollandia rolland" ; Times: 1
+	Query: "cardinalis phoeniceus type:specimen sex:male" ; Times: 1
+	Query: "Garrulax galbanus courtoisi" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (finschii) year &gt;= 1960" ; Times: 1
+	Query: "Peucaea aestivalis preparations:Skin institutioncode:SDNHM" ; Times: 1
+	Query: "Recurvirostra americana tissue" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus tissue:1" ; Times: 1
+	Query: "Gypaetus tissue:1" ; Times: 1
+	Query: "Mycteria cinerea type:specimen" ; Times: 1
+	Query: "myophonus caeruleus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (calthorpae)" ; Times: 2
+	Query: "specificepithet:sandwichensis genus:Passerculus year &gt;= 1894 year &lt;= 1894 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "Cardinalis phoeniceus type:specimen sex:male" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (finschii)" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (peruviana)" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (conspicillatus) year &gt;= 1949" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Aves palmira zarcero" ; Times: 1
+	Query: "specificepithet:albilinea genus:tachycineta" ; Times: 1
+	Query: "tragopan satyra" ; Times: 1
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "selasphorus sasin (clemente)" ; Times: 1
+	Query: "Phigys tissue:1" ; Times: 1
+	Query: "Synthliboramphus Benito" ; Times: 3
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "genus:Anseranas preparations:skeleton" ; Times: 2
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "SDNHM 36088" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:melospiza county:&#34;ventura&#34; preparations:skin year &gt;= 1900 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "genus:megaceryle class:aves year &gt;= 1800 year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 751 download events in this period)
+Total number of records downloaded: 7741
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 13
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 19
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-21 ; Times: 5
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-10 ; Times: 3
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "phytotoma rara" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "genus:Alopochen preparations:skeleton" ; Times: 1
+	Query: "specificepithet:bicolor genus:tachycineta tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza preparations:skin year &gt;= 1990 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "Myrmeciza loricata" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "Thraupis sayaca" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "genus:Tachyeres preparations:skeleton" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 1
+	Query: "genus:Anseranas preparations:skeleton" ; Times: 1
+	Query: "Attila spadiceus mappable:1" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "halcyon senegalensis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Catharus frantzii" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Huachuca class:Aves year &gt;= 1894 year &lt;= 1896" ; Times: 1
+	Query: "genus:Chenonetta preparations:skeleton" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "genus:Somateria preparations:skeleton" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "Numenius borealis" ; Times: 3
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "Salpinctes obsoletus locality:Guadalupe" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Alauda month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "ispidina picta" ; Times: 1
+	Query: "genus:Lophonetta preparations:skeleton" ; Times: 1
+
+
+End of report.
