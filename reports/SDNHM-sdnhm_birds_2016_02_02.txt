@@ -1,0 +1,450 @@
+Report for Institution Code SDNHM, Resource Birds
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 2127
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 10
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 14
+	Country: Sweden ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 314
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 7
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-08 ; Times: 12
+	Date: 2016-01-09 ; Times: 28
+	Date: 2016-01-10 ; Times: 6
+	Date: 2016-01-11 ; Times: 34
+	Date: 2016-01-12 ; Times: 23
+	Date: 2016-01-13 ; Times: 12
+	Date: 2016-01-14 ; Times: 45
+	Date: 2016-01-15 ; Times: 72
+	Date: 2016-01-16 ; Times: 6
+	Date: 2016-01-17 ; Times: 10
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-19 ; Times: 36
+	Date: 2016-01-20 ; Times: 16
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 12
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sdnhm 4100" ; Times: 1
+	Query: "sdnhm 21569" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "sdnhm 8851" ; Times: 1
+	Query: "sdnhm 21564" ; Times: 1
+	Query: "sdnhm 28686" ; Times: 2
+	Query: "sdnhm 36233" ; Times: 1
+	Query: "sdnhm 3271" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1916 year <= 1916" ; Times: 1
+	Query: "sdnhm 1898" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))<15000" ; Times: 1
+	Query: "genus:Junco stateprovince:"Minnesota"" ; Times: 1
+	Query: "sdnhm 10019" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "sdnhm 25288" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))<15000" ; Times: 1
+	Query: "sdnhm 31318" ; Times: 1
+	Query: "sdnhm 31316" ; Times: 1
+	Query: "sdnhm 40141" ; Times: 1
+	Query: "paradisaea year >= 1980 year <= 2016 tissue:1" ; Times: 1
+	Query: "sdnhm 3479" ; Times: 1
+	Query: "class:aves locality:juan stateprovince:"alaska" recordedby:willett year >= 1918 year <= 1919" ; Times: 1
+	Query: "Sayornis saya quiescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "leucistic" ; Times: 1
+	Query: "type:specimen order:psittaciformes (Agapornis taranta)" ; Times: 1
+	Query: ""Coeligena iris"" ; Times: 1
+	Query: "sdnhm 25838" ; Times: 2
+	Query: "sdnhm 737" ; Times: 1
+	Query: "sdnhm 23100" ; Times: 1
+	Query: "sdnhm 21360" ; Times: 1
+	Query: "sdnhm 42919" ; Times: 1
+	Query: "sdnhm 9534" ; Times: 1
+	Query: "sdnhm 2965" ; Times: 2
+	Query: "sdnhm 21579" ; Times: 2
+	Query: "sdnhm 33508" ; Times: 1
+	Query: "sdnhm 21476" ; Times: 1
+	Query: "sdnhm 3396" ; Times: 1
+	Query: "sdnhm 1647" ; Times: 1
+	Query: "sdnhm 20077" ; Times: 2
+	Query: "sdnhm 3133" ; Times: 1
+	Query: "sdnhm 21563" ; Times: 1
+	Query: "sdnhm 1887" ; Times: 1
+	Query: "sdnhm 20078" ; Times: 1
+	Query: "Picoides scalaris eremicus" ; Times: 2
+	Query: "sdnhm 1883" ; Times: 1
+	Query: "class:aves locality:craig stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "sdnhm 9923" ; Times: 1
+	Query: "sdnhm 39589" ; Times: 1
+	Query: "sdnhm 9533" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "sdnhm 9400" ; Times: 1
+	Query: "sdnhm 3241" ; Times: 1
+	Query: "sdnhm 9630" ; Times: 1
+	Query: "sdnhm 42419" ; Times: 1
+	Query: "specificepithet:hammondii genus:empidonax institutioncode:SDNHM" ; Times: 2
+	Query: "sdnhm 40668" ; Times: 1
+	Query: "sdnhm 2328" ; Times: 1
+	Query: "class:aves locality:howkan stateprovince:"alaska" recordedby:willett year >= 1916 year <= 1916" ; Times: 1
+	Query: "sdnhm 789" ; Times: 1
+	Query: "sdnhm 41122" ; Times: 1
+	Query: "sdnhm 17140" ; Times: 1
+	Query: "sdnhm 35600" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:"new mexico"" ; Times: 1
+	Query: "class:aves locality:dall stateprovince:"alaska" recordedby:willett year >= 1917 year <= 1917" ; Times: 1
+	Query: "sdnhm 2327" ; Times: 2
+	Query: "sdnhm 210" ; Times: 2
+	Query: "sdnhm 1286" ; Times: 1
+	Query: "sdnhm 13711" ; Times: 1
+	Query: "sdnhm 42099" ; Times: 1
+	Query: "sdnhm 20993" ; Times: 2
+	Query: "sdnhm 35349" ; Times: 1
+	Query: "sdnhm 31293" ; Times: 1
+	Query: "sdnhm 35346" ; Times: 1
+	Query: "sdnhm 16029" ; Times: 1
+	Query: "turnicidae tissue" ; Times: 1
+	Query: "sdnhm 2983" ; Times: 1
+	Query: "sdnhm 1289" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "sdnhm 34504" ; Times: 2
+	Query: "sdnhm 9500" ; Times: 1
+	Query: "sdnhm 2155" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett institutioncode:SDNHM" ; Times: 1
+	Query: "Megascops kennicottii cardonensis" ; Times: 1
+	Query: "sdnhm 1849" ; Times: 1
+	Query: "sdnhm 36667" ; Times: 1
+	Query: "Poecile gambeli atratus" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "sdnhm 3270" ; Times: 2
+	Query: "genus:Turnix tissue:1" ; Times: 1
+	Query: "sdnhm 3272" ; Times: 1
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "sdnhm 24081" ; Times: 1
+	Query: "sdnhm 22957" ; Times: 1
+	Query: "sdnhm 36335" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "Colaptes chrysoides brunnescens" ; Times: 1
+	Query: "sdnhm 44351" ; Times: 1
+	Query: "sdnhm 2986" ; Times: 1
+	Query: "Melanerpes uropygialis cardonensis" ; Times: 1
+	Query: "sdnhm 28553" ; Times: 1
+	Query: "sdnhm 36248" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "specificepithet:militaris genus:Ara stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "sdnhm 8468" ; Times: 1
+	Query: "sdnhm 2704" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "sdnhm 20111" ; Times: 1
+	Query: "sdnhm 36069" ; Times: 1
+	Query: "coeligena phalerata" ; Times: 1
+	Query: "sdnhm 2147" ; Times: 1
+	Query: "sdnhm 2226" ; Times: 1
+	Query: "sdnhm 36093" ; Times: 1
+	Query: "sdnhm 31882" ; Times: 1
+	Query: "sdnhm 9351" ; Times: 1
+	Query: "sdnhm 3497" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "sdnhm 23889" ; Times: 4
+	Query: "sdnhm 3498" ; Times: 2
+	Query: "skin male type:specimen specificepithet:somptuosus genus:Anisognathus order:Passeriformes class:Aves" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "Oceanodroma homochroa 1886" ; Times: 1
+	Query: "sdnhm 4560" ; Times: 1
+	Query: "SDNHM 39388" ; Times: 1
+	Query: "Ixoreus naevius month >= 6 month <= 6" ; Times: 2
+	Query: "sdnhm 25419" ; Times: 1
+	Query: "sdnhm 26773" ; Times: 1
+	Query: "sdnhm 40116" ; Times: 1
+	Query: "sdnhm 3410" ; Times: 1
+	Query: "sdnhm 23082" ; Times: 2
+	Query: "class:aves locality:craig stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 2 month <= 2" ; Times: 1
+	Query: "specificepithet:militaris genus:Ara" ; Times: 1
+	Query: ""Heliangelus viola"" ; Times: 1
+	Query: "sdnhm 22727" ; Times: 1
+	Query: "sdnhm 9446" ; Times: 1
+	Query: "sdnhm 3293" ; Times: 1
+	Query: "sdnhm 3291" ; Times: 2
+	Query: "sdnhm 3006" ; Times: 1
+	Query: "egretta ardesiaca" ; Times: 2
+	Query: "sdnhm 35087" ; Times: 1
+	Query: "Oceanodroma leucorhoa Benito" ; Times: 2
+	Query: "distance(location,geopoint(27.729036,-113.867516))<15000" ; Times: 1
+	Query: "sdnhm 23009" ; Times: 1
+	Query: "sdnhm 24072" ; Times: 1
+	Query: "sdnhm 2425" ; Times: 1
+	Query: "sdnhm 38217" ; Times: 1
+	Query: "sdnhm 41198" ; Times: 2
+	Query: "sdnhm 3307" ; Times: 1
+	Query: "sdnhm 2770" ; Times: 1
+	Query: "sdnhm 23080" ; Times: 1
+	Query: "sdnhm 31198" ; Times: 1
+	Query: "sdnhm 2778" ; Times: 1
+	Query: "sdnhm 21597" ; Times: 1
+	Query: "sdnhm 42404" ; Times: 1
+	Query: "sdnhm 26080" ; Times: 1
+	Query: "sdnhm 28731" ; Times: 2
+	Query: "sdnhm 10746" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.807516))<15000" ; Times: 1
+	Query: "sdnhm 1852" ; Times: 2
+	Query: "genus:Tinamus class:Aves country:"Brazil"" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "sdnhm 8467" ; Times: 1
+	Query: "skin genus: Gubernatrix sex:male" ; Times: 1
+	Query: "sdnhm 23857" ; Times: 2
+	Query: "sdnhm 17139" ; Times: 1
+	Query: "sdnhm 34709" ; Times: 1
+	Query: "sdnhm 1659" ; Times: 1
+	Query: "sdnhm 22288" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "sdnhm 30469" ; Times: 1
+	Query: "sdnhm 18918" ; Times: 1
+	Query: "sdnhm 40557" ; Times: 1
+	Query: "sdnhm 31175" ; Times: 1
+	Query: "sdnhm 1760" ; Times: 1
+	Query: "sdnhm 35312" ; Times: 1
+	Query: "sdnhm 9612" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-112.507516))<15000" ; Times: 1
+	Query: "sdnhm 9277" ; Times: 1
+	Query: "sdnhm 34385" ; Times: 1
+	Query: "sdnhm 9275" ; Times: 1
+	Query: "sdnhm 29914" ; Times: 1
+	Query: "sdnhm 27787" ; Times: 2
+	Query: "sdnhm 3176" ; Times: 1
+	Query: "sdnhm 2168" ; Times: 1
+	Query: "sdnhm 20589" ; Times: 1
+	Query: "sdnhm 3207" ; Times: 1
+	Query: "sdnhm 1851" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "sdnhm 31181" ; Times: 1
+	Query: "sdnhm 28311" ; Times: 2
+	Query: "sdnhm 2682" ; Times: 1
+	Query: "sdnhm 24220" ; Times: 1
+	Query: "sdnhm 28312" ; Times: 1
+	Query: "sdnhm 9575" ; Times: 1
+	Query: "sdnhm 31262" ; Times: 1
+	Query: "sdnhm 17051" ; Times: 1
+	Query: "sdnhm 2686" ; Times: 1
+	Query: "sdnhm 589" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "sdnhm 2361" ; Times: 1
+	Query: "sdnhm 3204" ; Times: 1
+	Query: "cardellina pusilla month >= 12 month <= 12" ; Times: 1
+	Query: "San Benito Islands" ; Times: 1
+	Query: "sdnhm 741" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-110.127516))<15000" ; Times: 1
+	Query: "sdnhm 2801" ; Times: 1
+	Query: "sdnhm 2802" ; Times: 1
+	Query: "Procellariiformes institutioncode:SDNHM tissue:1" ; Times: 1
+	Query: "sdnhm 2804" ; Times: 1
+	Query: "sdnhm 9267" ; Times: 1
+	Query: "sdnhm 2809" ; Times: 1
+	Query: "sdnhm 36450" ; Times: 1
+	Query: "sdnhm 36699" ; Times: 1
+	Query: "specificepithet:antillarum genus:sternula month >= 1 month <= 2" ; Times: 1
+	Query: "sdnhm 3238" ; Times: 2
+	Query: "catalognumber:9342 institutioncode:SDNHM" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "sdnhm 2266" ; Times: 1
+	Query: "sdnhm 42058" ; Times: 1
+	Query: "sdnhm 9266" ; Times: 1
+	Query: "sdnhm 36183" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "sdnhm 42169" ; Times: 1
+	Query: "sdnhm 2523" ; Times: 1
+	Query: "sdnhm 2522" ; Times: 2
+	Query: "type:specimen specificepithet:phoeniceus genus:Cardinalis sex:Male preparations:Skin" ; Times: 1
+	Query: "sdnhm 38745" ; Times: 2
+	Query: "sdnhm 916" ; Times: 1
+	Query: "sdnhm 8651" ; Times: 1
+	Query: "sdnhm 20634" ; Times: 1
+	Query: "sdnhm 28273" ; Times: 1
+	Query: "sdnhm 8554" ; Times: 1
+	Query: "sdnhm 21364" ; Times: 2
+	Query: "sdnhm 9540" ; Times: 1
+	Query: "sdnhm 23225" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.147516))<15000" ; Times: 1
+	Query: "sdnhm 33097" ; Times: 1
+	Query: "sdnhm 2696" ; Times: 2
+	Query: "sdnhm 20026" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "sdnhm 775" ; Times: 1
+	Query: "sdnhm 774" ; Times: 2
+	Query: "sdnhm 26788" ; Times: 1
+	Query: "sdnhm 21583" ; Times: 1
+	Query: "sdnhm 3500" ; Times: 1
+	Query: "Oceanodroma Benito" ; Times: 2
+	Query: "sdnhm 42912" ; Times: 1
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta sex:Male preparations:Skin" ; Times: 1
+	Query: "sdnhm 39251" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year >= 1920 year <= 1920" ; Times: 1
+	Query: "sdnhm 27784" ; Times: 1
+	Query: "sdnhm 1552" ; Times: 1
+	Query: "sdnhm 26865" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:hurley" ; Times: 2
+	Query: "sdnhm 31409" ; Times: 1
+	Query: "sdnhm 28970" ; Times: 1
+	Query: "sdnhm 26518" ; Times: 2
+	Query: "sdnhm 44397" ; Times: 1
+	Query: "sdnhm 44396" ; Times: 1
+	Query: "sdnhm 3242" ; Times: 1
+	Query: "sdnhm 2162" ; Times: 1
+	Query: "sdnhm 23119" ; Times: 1
+	Query: "sdnhm 23440" ; Times: 1
+	Query: "sdnhm 23117" ; Times: 1
+	Query: "sdnhm 23115" ; Times: 1
+	Query: "sdnhm 1661" ; Times: 2
+	Query: "sdnhm 865" ; Times: 2
+	Query: "sdnhm 42801" ; Times: 2
+	Query: "Psaltriparus minimus melanurus" ; Times: 3
+	Query: "sdnhm 23989" ; Times: 1
+	Query: "sdnhm 21664" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "sdnhm 38186" ; Times: 1
+	Query: "sdnhm 205" ; Times: 1
+	Query: "sdnhm 17650" ; Times: 1
+	Query: "sdnhm 2109" ; Times: 1
+	Query: "sdnhm 2185" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "sdnhm 36590" ; Times: 1
+	Query: "sdnhm 9922" ; Times: 1
+	Query: "sdnhm 32973" ; Times: 1
+	Query: "sdnhm 3197" ; Times: 1
+	Query: "zonotrichia atricapilla pasadena" ; Times: 1
+	Query: "sdnhm 39045" ; Times: 1
+	Query: "sdnhm 2298" ; Times: 1
+	Query: "sdnhm 42905" ; Times: 1
+	Query: "sdnhm 42906" ; Times: 1
+	Query: "Platylophus tissue:1" ; Times: 3
+	Query: "sdnhm 2690" ; Times: 1
+	Query: "cardinalis cardinalis stateprovince:"California"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 507 download events in this period)
+Total number of records downloaded: 494 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 466
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 9
+	Date: 2016-01-02 ; Times: 14
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "himatione" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: ""Santa Cruz Island" class:Aves stateprovince:"California"" ; Times: 1
+	Query: ""Picoides fumigatus"" ; Times: 1
+	Query: ""Premnoplex brunnescens"" ; Times: 1
+	Query: ""aves" and "Michoacan"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Junco stateprovince:"Minnesota"" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: ""Tangara vassorii"" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: ""Heliangelus viola"" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: ""Phaethornis syrmatophorus"" ; Times: 1
+	Query: "Struthio type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: ""Euphonia xanthogaster"" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: ""Thraupis cyanocephala"" ; Times: 1
+	Query: ""Trogon personatus"" ; Times: 1
+	Query: ""Syndactyla rufosuperciliata"" ; Times: 1
+	Query: ""Doryfera ludovicae"" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: ""Lophotriccus pileatus"" ; Times: 1
+	Query: "genus:haliaeetus year >= 1996 year <= 2015" ; Times: 1
+	Query: ""Platyrinchus mystaceus"" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: ""Coeligena coeligena"" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: ""Myrmotherula schisticolor"" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:"new mexico"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 494
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 360
+Total number of records retrieved from searches: 2127
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 494
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
