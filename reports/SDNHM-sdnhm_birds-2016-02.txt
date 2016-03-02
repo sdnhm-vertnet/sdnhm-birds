@@ -1,0 +1,180 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 803
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 20
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 16
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 4
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-07 ; Times: 4
+	Date: 2016-02-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo vicinior" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 2
+	Query: "Phalacrocorax harrisi" ; Times: 2
+	Query: "gyps" ; Times: 1
+	Query: "tinamotis ingoufi" ; Times: 1
+	Query: "Brachyramphus perdix" ; Times: 1
+	Query: "mycteria cinerea" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "bellii tissue:1" ; Times: 2
+	Query: "Coracias cyanogaster" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 1
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "vireo flavoviridis type:specimen tissue:1" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "genus:Cerorhinca tissue:1" ; Times: 1
+	Query: "Haematopus leucopodus" ; Times: 1
+	Query: "Catharus guttatus distance(location,geopoint(31.989441837922904,-116.12548828125))&lt;100000" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "strigiformes type:specimen institutioncode:SDNHM" ; Times: 2
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "pterocles sind" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 3
+	Query: "specificepithet:cyanocephalus genus:Gymnorhinus class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Vireo vicinior mexico" ; Times: 1
+	Query: "Carduelis cucullatus" ; Times: 1
+	Query: "Spinus tristis" ; Times: 2
+	Query: "lophotibis cristata" ; Times: 2
+	Query: "Pitta brachyura type:specimen" ; Times: 2
+	Query: "46719" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "neophron" ; Times: 1
+	Query: "Linurgus olivaceus tissue:1" ; Times: 1
+	Query: "Torgos" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "gallicolumba platenae" ; Times: 5
+	Query: "genus:Sagittarius tissue:1" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "genus:Eurocephalus tissue:1" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "Pitta moluccensis type:specimen" ; Times: 1
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "heliobletus contaminatus type:specimen" ; Times: 1
+	Query: "ducula lacernulata" ; Times: 3
+	Query: "arborophila orientalis" ; Times: 1
+	Query: "Anthornis" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "thalurania watertonii" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "ara militaris" ; Times: 19
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 512 download events in this period)
+Total number of records downloaded: 2375
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 28
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 9
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "Cedar Canyon county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
