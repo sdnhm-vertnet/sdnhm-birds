@@ -1,0 +1,492 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 484
+Number of records retrieved in searches: 5444
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 31
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 203
+	Country: Montenegro ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 184
+	Country: Russia ; Times: 34
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 75
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 8
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 10
+	Date: 2016-04-04 ; Times: 14
+	Date: 2016-04-21 ; Times: 15
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 22
+	Date: 2016-04-08 ; Times: 20
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-27 ; Times: 124
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-22 ; Times: 12
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-14 ; Times: 11
+	Date: 2016-04-15 ; Times: 14
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 14
+	Date: 2016-04-10 ; Times: 5
+	Date: 2016-04-11 ; Times: 15
+	Date: 2016-04-12 ; Times: 17
+	Date: 2016-04-13 ; Times: 41
+	Date: 2016-04-03 ; Times: 15
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 4
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.867516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "Athene AND Island" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.017516))&lt;15000" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "catalognumber:51741 institutioncode:SDNHM" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.787516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-108.767516))&lt;15000" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(27.899036,-115.057516))&lt;15000" ; Times: 1
+	Query: "&#34;vermivora bachmanii&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.557516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(28.919036,-112.507516))&lt;15000" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-111.827516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.747516))&lt;15000" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-112.337516))&lt;15000" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Setophaga month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "catalognumber:52653 institutioncode:SDNHM" ; Times: 2
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "pitta brachyura" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "24268" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 2
+	Query: "distance(location,geopoint(24.159036,-110.637516))&lt;15000" ; Times: 1
+	Query: "SDNHM Birds AND Green AND Island" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-112.167516))&lt;15000" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "strix virgata" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "Plaskett stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.257516))&lt;15000" ; Times: 1
+	Query: "polychopterus cinereiventris" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 3
+	Query: "gorilla" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-111.657516))&lt;15000" ; Times: 1
+	Query: "skin type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 2
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(30.109036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "lichtensteini" ; Times: 2
+	Query: "distance(location,geopoint(24.669036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-111.827516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(28.749036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "14798" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-114.887516))&lt;15000" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "box turtle" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.677516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-113.017516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34; tissue:1 distance(location,geopoint(33.870415550941836,-111.4453125))&lt;217775" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.487516))&lt;15000" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-111.827516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.387516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "sarkidiornis skeleton" ; Times: 5
+	Query: "distance(location,geopoint(25.519036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-115.057516))&lt;15000" ; Times: 1
+	Query: "Coccothraustes minnesota" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-111.997516))&lt;15000" ; Times: 1
+	Query: "puffinus bulleri tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.297516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53546 institutioncode:SDNHM" ; Times: 2
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-106.217516))&lt;15000" ; Times: 1
+	Query: "coccyzus ferrugineus" ; Times: 5
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "witch" ; Times: 19
+	Query: "SDNHM Birds AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.487516))&lt;15000" ; Times: 1
+	Query: "catalognumber:51060 institutioncode:SDNHM" ; Times: 2
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga month &gt;= 1 month &lt;= 4" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-112.167516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-110.127516))&lt;15000" ; Times: 2
+	Query: "Elanus leucurus type:specimen tissue:1" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.597516))&lt;15000" ; Times: 1
+	Query: "Athene AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Psittacula (columboides)" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.827516))&lt;15000" ; Times: 1
+	Query: "SDNHM 17879" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-110.127516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Setophaga tissue:1" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.047516))&lt;15000" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 3
+	Query: "distance(location,geopoint(23.139036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 2
+	Query: "specificepithet:discolor genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.527516))&lt;15000" ; Times: 2
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-110.807516))&lt;15000" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.787516))&lt;15000" ; Times: 2
+	Query: "28423" ; Times: 1
+	Query: "Synthliboramphus AND Clemente" ; Times: 1
+	Query: "Athene AND Clemente Island" ; Times: 1
+	Query: "pyrrhura frontalis" ; Times: 1
+	Query: "Phoebastria immutabilis tissue:1" ; Times: 1
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34; tissue:1 distance(location,geopoint(33.870415550941836,-111.4453125))&lt;426703" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "calothorax" ; Times: 4
+	Query: "angeli" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.467516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 4
+	Query: "distance(location,geopoint(24.329036,-109.957516))&lt;15000" ; Times: 2
+	Query: "Setophaga striata" ; Times: 1
+	Query: "Accipiter striatus perobscurus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "skin specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-111.997516))&lt;15000" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-110.297516))&lt;15000" ; Times: 2
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta" ; Times: 2
+	Query: "specificepithet:caerulescens genus:setophaga month &gt;= 1 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.127516))&lt;15000" ; Times: 2
+	Query: "pelecanus rufescens" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "Howell AND 1913" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "catalognumber:53137 institutioncode:SDNHM" ; Times: 2
+	Query: "distance(location,geopoint(30.109036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-111.997516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "skin specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "distance(location,geopoint(26.879036,-113.017516))&lt;15000" ; Times: 1
+	Query: "calothorax lucifer" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "nettapus skeleton" ; Times: 2
+	Query: "Euphagus carolinus Ontario" ; Times: 10
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "&#34;A. B.Howell&#34; AND &#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-113.187516))&lt;15000" ; Times: 1
+	Query: "SDNHM AND Island" ; Times: 1
+	Query: "specificepithet:immutabilis genus:Phoebastria tissue:1" ; Times: 1
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.297516))&lt;15000" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "type:specimen specificepithet:striata genus:Setophaga month &gt;= 9 month &lt;= 12" ; Times: 2
+	Query: "type:specimen specificepithet:leucopyga genus:Tachycineta mappable:1" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.449036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.677516))&lt;15000" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "SDNHM Birds 17879" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Tyrannus verticalis Ontario" ; Times: 10
+	Query: "Elanus type:specimen tissue:1" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-111.317516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53023 institutioncode:SDNHM" ; Times: 1
+	Query: "Agelaius phoeniceus brownsville" ; Times: 1
+	Query: "SDNHM Birds AND Green" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 4
+	Query: "distance(location,geopoint(27.219036,-112.337516))&lt;15000" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "distance(location,geopoint(23.989036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.957516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-111.827516))&lt;15000" ; Times: 1
+	Query: "pachyramphus aglaiae costa rica" ; Times: 1
+	Query: "sitta canadensis Mexico" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Poospiza nigrorufa" ; Times: 4
+	Query: "Philydor lichtensteini" ; Times: 1
+	Query: "aimophila ruficeps kerr texas" ; Times: 1
+	Query: "Rissa tridactyla tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.767516))&lt;15000" ; Times: 2
+	Query: "Agelaius phoeniceus California San Bernardino County" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "Puffinus pacificus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.657516))&lt;15000" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Myophonus blighi" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Melanerpes erythrocephalus Ontario" ; Times: 10
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 6
+	Query: "Puffinus newelli tissue:1" ; Times: 1
+	Query: "colaptes genus:Colaptes family:Picidae order:Piciformes class:Aves stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.957516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53085 institutioncode:SDNHM" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1312 download events in this period)
+Total number of records downloaded: 1666
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 91
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-20 ; Times: 19
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 34
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-24 ; Times: 5
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1910 year &lt;= 1920 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:cyaneoviridis genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "colaptes genus:Colaptes family:Picidae order:Piciformes class:Aves stateprovince:&#34;Arizona&#34; tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Melierax gabar" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 3
+	Query: "Poospiza nigrorufa" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "Crax rubra" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "tachycineta cyaneoviridis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+
+
+End of report.
