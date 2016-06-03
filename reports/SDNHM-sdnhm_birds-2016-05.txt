@@ -1,0 +1,147 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 577
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 40
+	Country: Malaysia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 9
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 7
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 13
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "distance(location,geopoint(29.173036,-112.217516))&lt;15000" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "SDNHM Birds 51737" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "Falco sparverius AND San Clemente Island" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "Huey AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "ara militaris" ; Times: 2
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "numenius borealis" ; Times: 3
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Bancroft AND Island" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz" ; Times: 1
+	Query: "Rata" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "Selasphorus AND San Clemente Island" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 327 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 2
+	Country: China ; Times: 4
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Yuhina" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
