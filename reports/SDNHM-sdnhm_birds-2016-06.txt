@@ -1,0 +1,279 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 1702
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 130
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 34
+	Country: Singapore ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 34
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 11
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 12
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 5
+	Date: 2016-06-20 ; Times: 14
+	Date: 2016-06-05 ; Times: 5
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 30
+	Date: 2016-06-09 ; Times: 7
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-18 ; Times: 4
+	Date: 2016-06-16 ; Times: 19
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-14 ; Times: 34
+	Date: 2016-06-15 ; Times: 21
+	Date: 2016-06-13 ; Times: 15
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-11 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "sdnhm 8858" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "selasphorus sasin institutioncode:SDNHM tissue:1" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 2
+	Query: "sdnhm birds Strix occidentalis" ; Times: 1
+	Query: "Foudia AND skeleton" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon AND (-ypm)" ; Times: 1
+	Query: "sitta canadensis mexico" ; Times: 2
+	Query: "lanius ludovicianus baja california" ; Times: 3
+	Query: "distance(location,geopoint(29.29757746434956,-114.08203125))&lt;14221" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Arundo donax" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "tadorna tissue:1" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1908" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "18771" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon institutioncode:SDNHM" ; Times: 2
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "distance(location,geopoint(29.303166218113137,-114.04083251953125))&lt;16502" ; Times: 1
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "Amazona aestiva 1" ; Times: 3
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "r.a. erickson" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "Auriparus flaviceps stateprovince:&#34;Baja California&#34; mappable:1" ; Times: 1
+	Query: "Numenius americanus tissue:1" ; Times: 1
+	Query: "Agriocharis ocellata" ; Times: 1
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "birds Auriparus flaviceps Baja California" ; Times: 1
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "numenius tissue:1" ; Times: 4
+	Query: "mummy" ; Times: 5
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 2
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Isla Natividad Mexico AND 1925" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1924" ; Times: 1
+	Query: "spring birds in Montana" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "aimophila ruficeps canescens" ; Times: 3
+	Query: "catalognumber:20207 institutioncode:SDNHM" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "selasphorus sasin institutioncode:SDNHM" ; Times: 1
+	Query: "sdnhm birds Auriparus flaviceps baja california" ; Times: 1
+	Query: "selasphorus sasin year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "11899" ; Times: 3
+	Query: "Eos bornea AND skeleton" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Prunella montanella japan" ; Times: 1
+	Query: "Melanitta AND San Miguel" ; Times: 2
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "magnolia catalognumber:50274 (setophaga OR dendroica) institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "haemorhous mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Todiramphus chloris tissue:1" ; Times: 1
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "laterallus jamaicensis United States" ; Times: 1
+	Query: "type:specimen specificepithet:mesoleuca sex:male" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 3
+	Query: "sdnhm birds Auriparus flaviceps" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "SDNHM 985" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "institutioncode:sdnhm" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "38590" ; Times: 1
+	Query: "Eos semilarvata AND skeleton" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "bambusicola type:specimen tissue:1" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "haliaeetus vocifer skeleton" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "aimophila ruficeps obscura" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "van fleet" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "Egretta AND Island AND California" ; Times: 1
+	Query: "SDNHM 1695" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "toxostoma lecontei arenicola" ; Times: 3
+	Query: "aegolius funereus institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "distance(location,geopoint(29.303166218113137,-114.04083251953125))&lt;15702.454047350051" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz 1936" ; Times: 2
+	Query: "striata catalognumber:35100 (setophaga OR dendroica) institutioncode:SDNHM" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "50388" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "16754" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "34780" ; Times: 1
+	Query: "distance(location,geopoint(29.29757746434956,-114.08203125))&lt;27065.422271254924" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "agriocharis ocellata" ; Times: 4
+	Query: "Aratinga erythrogenys 1" ; Times: 3
+	Query: "29872" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Oceanodroma melania AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(29.3582394657294,-113.994140625))&lt;30625.37489061626" ; Times: 1
+	Query: "Nettapus tissue:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1052 download events in this period)
+Total number of records downloaded: 603
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "goura" ; Times: 2
+	Query: "ara macao" ; Times: 4
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "lanius ludovicianus baja california" ; Times: 2
+	Query: "distance(location,geopoint(29.303166218113137,-114.04083251953125))&lt;15702.454047350051" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "agriocharis ocellata" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
