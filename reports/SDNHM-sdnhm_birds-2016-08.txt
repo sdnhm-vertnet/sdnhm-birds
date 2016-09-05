@@ -1,0 +1,213 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 728
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 118
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 7
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 25
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 13
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 9
+	Date: 2016-08-26 ; Times: 11
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-31 ; Times: 10
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-30 ; Times: 14
+	Date: 2016-08-29 ; Times: 9
+	Date: 2016-08-22 ; Times: 9
+	Date: 2016-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "34126" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Ammodramus henslowii&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:Archilochus stateprovince:&#34;california&#34; tissue:1" ; Times: 1
+	Query: "SAn Benito AND Carpodacus NOT CAlifornia" ; Times: 1
+	Query: "bostrychia tissue:1" ; Times: 2
+	Query: "meleagris gallopavo country:&#34;mexico&#34; year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen family:rheidae institutioncode:SDNHM" ; Times: 1
+	Query: "Eurystomus orientalis tissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus institutioncode:SDNHM tissue:1" ; Times: 1
+	Query: "dendragapus arizona" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gypohierax" ; Times: 1
+	Query: "Cistothorus palustris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pitta brachyura" ; Times: 5
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "agelaius humeralis" ; Times: 2
+	Query: "chrysoparia" ; Times: 1
+	Query: "specificepithet:auricularis genus:puffinus family:Procellariidae year &gt;= 1964 year &lt;= 1978" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "CORYTHAEOLA CRISTATA tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "chlorostilbon alice" ; Times: 4
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "phodilus badius" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "Paradisaea raggiana tissue:1" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "crypsirina" ; Times: 1
+	Query: "Paroaria tissue:1" ; Times: 1
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 8
+	Query: "witch" ; Times: 2
+	Query: "agelaius humeralis sex:male" ; Times: 1
+	Query: "Setophaga kirtlandii type:specimen" ; Times: 2
+	Query: "harpactes reinwardtii" ; Times: 8
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "21820" ; Times: 1
+	Query: "type:specimen genus:apteryx" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "SAn Benito AND Carpodacus" ; Times: 1
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "type:specimen genus:opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "ceratogymna elata tissue:1" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Corvus corax utah" ; Times: 2
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34; tissue:1" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "clamator coromandus" ; Times: 2
+	Query: "megascops asio tissue:1" ; Times: 2
+	Query: "Platylophus galericulatus tissue:1" ; Times: 1
+	Query: "psittacus erithacus tissue:1" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "SDNHM Birds 15253" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "Catharus ustulatus (California) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 1
+	Query: "type:specimen family:tinamidae institutioncode:SDNHM" ; Times: 1
+	Query: "Selasphorus sasin tissue:1" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "tissue:1 Eurystomus orientalis" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "otus asio tissue:1" ; Times: 1
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "AnaCAPA AND Endomychura hypoleuca scrippsi" ; Times: 1
+	Query: "type:specimen genus:apteryx institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Megascops stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "type:specimen genus:Calothorax" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 1
+	Query: "lampornis cinereicauda" ; Times: 7
+	Query: "agelaius humeralis type:specimen sex:male preparations:skin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 924 download events in this period)
+Total number of records downloaded: 4879
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: France ; Times: 1
+	Country: United States ; Times: 26
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-23 ; Times: 6
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 13
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Paroaria gularis tissue:1" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "genus:Megascops stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Picoides arcticus year &gt;= 1980" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+
+
+End of report.
