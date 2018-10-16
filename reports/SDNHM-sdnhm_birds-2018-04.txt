@@ -1,0 +1,407 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 395
+Number of records retrieved in searches: 2127
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 12
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 7
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 42
+	Country: United States ; Times: 286
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 103
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 37
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-26 ; Times: 11
+	Date: 2018-04-25 ; Times: 50
+	Date: 2018-04-24 ; Times: 39
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 8
+	Date: 2018-04-04 ; Times: 14
+	Date: 2018-04-07 ; Times: 12
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 9
+	Date: 2018-04-11 ; Times: 9
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 12
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 8
+	Date: 2018-04-19 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:asio class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "catalognumber:3125 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "catalognumber:169 institutioncode:SDNHM" ; Times: 1
+	Query: "dendragapus obscurus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "anthus rubescens hastissue:1" ; Times: 1
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "genus:porzana class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps hastissue:1" ; Times: 1
+	Query: "catalognumber:1118 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:193 institutioncode:SDNHM" ; Times: 1
+	Query: "myiodynastes luteiventris stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu)" ; Times: 1
+	Query: "catalognumber:1285 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:749 institutioncode:SDNHM" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "34929" ; Times: 2
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "passerina pulchra" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sabini class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "empidonax traillii extimus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "ammodramus savannarum stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 3
+	Query: "specificepithet:flavifrons genus:Vireo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:11179 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:9533 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1989 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1195 institutioncode:SDNHM" ; Times: 1
+	Query: "Setophaga dominica albilora" ; Times: 1
+	Query: "catalognumber:3215 institutioncode:SDNHM" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34; year &gt;= 2009 year &lt;= 2018 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:chrysaetos class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 2
+	Query: "catalognumber:1179 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "genus:Calcarius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:9212 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "katy texas birds" ; Times: 1
+	Query: "melanerpes uropygialis stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "catalognumber:40078 institutioncode:SDNHM" ; Times: 1
+	Query: "coccyzus americanus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 6
+	Query: "29688" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 10
+	Query: "cinclus mexicanus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:39869 institutioncode:SDNHM" ; Times: 1
+	Query: "gymnorhinus cyanocephalus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:10037 institutioncode:SDNHM" ; Times: 1
+	Query: "vireo bellii arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:grylle class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "catalognumber:10914 institutioncode:SDNHM" ; Times: 1
+	Query: "ammodramus bairdii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "catalognumber:10537 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "lampornis clemenciae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:lobatus genus:Phalaropus class:Aves year &gt;= 1850 year &lt;= 1895 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "contopus cooperi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:1082 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:11178 institutioncode:SDNHM" ; Times: 1
+	Query: "fish zacatecas" ; Times: 1
+	Query: "genus:Synthliboramphus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:29596 institutioncode:SDNHM" ; Times: 1
+	Query: "eremophila alpestris county:&#34;Imperial&#34; institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "catalognumber:29026 institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "troglodytes pacificus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "chordeiles minor stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "passerculus sandwichensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 2
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "catalognumber:3099 institutioncode:SDNHM" ; Times: 1
+	Query: "Branta bernicla basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 2
+	Query: "toxostoma lecontei stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Eremophila alpestris county:&#34;Imperial&#34; institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:40146 institutioncode:SDNHM" ; Times: 1
+	Query: "Aythya collaris hastissue:1 California" ; Times: 1
+	Query: "catalognumber:212 institutioncode:SDNHM" ; Times: 1
+	Query: "Loxia curvirostra Deschutes County" ; Times: 1
+	Query: "catalognumber:22012 institutioncode:SDNHM" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "athene cunicularia hypugaea stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:441 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:sabini class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "catalognumber:22271 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:53946 institutioncode:SDNHM" ; Times: 1
+	Query: "Chloephaga basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "catalognumber:555 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1287 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:21819 institutioncode:SDNHM" ; Times: 1
+	Query: "campephilus principalis" ; Times: 3
+	Query: "class:Aves recordedby:Greist" ; Times: 1
+	Query: "vireo bellii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:23121 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:23959 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:11551 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:233 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Tarsiger class:Aves institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:124 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1930" ; Times: 1
+	Query: "catalognumber:10543 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:32660 institutioncode:SDNHM" ; Times: 1
+	Query: "caracara lutosa" ; Times: 3
+	Query: "specificepithet:scandiacus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "catalognumber:192 institutioncode:SDNHM" ; Times: 1
+	Query: "Chloephaga melanoptera basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "catalognumber:2262 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:11920 institutioncode:SDNHM" ; Times: 1
+	Query: "athene cunicularia stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "porzana complete hastissue:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:1196 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:Guttatus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1144 institutioncode:SDNHM" ; Times: 2
+	Query: "vultur gryphus" ; Times: 36
+	Query: "dubium" ; Times: 1
+	Query: "catalognumber:182 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus preparations:skeleton" ; Times: 1
+	Query: "Philetairus socius vntype:specimen hastissue:1" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "catalognumber:32574 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:43779 institutioncode:SDNHM" ; Times: 1
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:10548 institutioncode:SDNHM" ; Times: 1
+	Query: "geothlypis tolmiei stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Eremophila alpestris institutioncode:SDNHM hastissue:1" ; Times: 2
+	Query: "picoides arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "35872" ; Times: 1
+	Query: "specificepithet:grylle class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 2
+	Query: "fossil creek arizona" ; Times: 1
+	Query: "catalognumber:1180 institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullata genus:Cyanolyca" ; Times: 1
+	Query: "perisoreus canadensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:44979 institutioncode:SDNHM" ; Times: 1
+	Query: "setophaga petechia stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:9744 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:3352 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:9356 institutioncode:SDNHM" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "vireo vicinior stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:23984 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:29958 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 22
+	Query: "colinus virginianus hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae hastissue:1" ; Times: 1
+	Query: "class:aves locality:San Clemente Island institutioncode:SDNHM" ; Times: 1
+	Query: "poecile sclateri stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Anas discors basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:adamsii class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "catalognumber:1171 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "Pterocnemia" ; Times: 2
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:oenanthe class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "catalognumber:11186 institutioncode:SDNHM" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "class:aves locality:kodiak stateprovince:&#34;alaska&#34; year &gt;= 1915 year &lt;= 1925" ; Times: 1
+	Query: "genus:bubo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "catalognumber:1229 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 4
+	Query: "catalognumber:10340 institutioncode:SDNHM" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1930 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "strix occidentalis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:416 institutioncode:SDNHM" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "peucaea botterii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:28473 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:257 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:912 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:29805 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:9656 institutioncode:SDNHM" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:501 institutioncode:SDNHM" ; Times: 1
+	Query: "eugenes fulgens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "strix occidentalis lucida stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "passerina versicolor stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cyanoptila cyanomelana" ; Times: 1
+	Query: "colaptes chrysoides stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:grylle class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;Mexico&#34; year &gt;= 1940 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1193 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:2360 institutioncode:SDNHM" ; Times: 1
+	Query: "class:Aves distance(location,geopoint(42.52069952914966,-118.58642578125))&lt;29921" ; Times: 1
+	Query: "catalognumber:417 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1898" ; Times: 1
+	Query: "specificepithet:chrysaetos class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves locality:&#34;San Clemente Island&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:19782 institutioncode:SDNHM" ; Times: 1
+	Query: "empidonax traillii stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:10036 institutioncode:SDNHM" ; Times: 1
+	Query: "melozone aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:canagica genus:Chen" ; Times: 3
+	Query: "Junco insularis" ; Times: 5
+	Query: "junco phaeonotus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:2880 institutioncode:SDNHM" ; Times: 1
+	Query: "junco insularis" ; Times: 8
+	Query: "coccothraustes vespertinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:158 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:38239 institutioncode:SDNHM" ; Times: 1
+	Query: "melospiza lincolnii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Aythya collaris hastissue:1" ; Times: 4
+	Query: "peucaea carpalis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "myiarchus tuberculifer stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Regulus calendula obscurus" ; Times: 1
+	Query: "catalognumber:11177 institutioncode:SDNHM" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "gallinago delicata egg" ; Times: 1
+	Query: "megascops trichopsis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catharus ustulatus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "ailuroedus melanotis" ; Times: 1
+	Query: "preparations:skin Ectopistes migratorius" ; Times: 1
+	Query: "catalognumber:208 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:22651 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:8477 institutioncode:SDNHM" ; Times: 1
+	Query: "progne subis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:2211 institutioncode:SDNHM" ; Times: 1
+	Query: "Ceyx rufidorsa" ; Times: 1
+	Query: "catalognumber:41691 institutioncode:SDNHM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1359 download events in this period)
+Total number of records downloaded: 3585
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: China ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-11 ; Times: 6
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Neochen jubata" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:atthis country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "eremophila alpestris county:&#34;Imperial&#34; institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles mappable:1" ; Times: 1
+	Query: "Sporophila corvina" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "class:aves locality:adak" ; Times: 1
+	Query: "Pterocnemia" ; Times: 2
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 1
+	Query: "vntype:specimen specificepithet:alexandri genus:Archilochus country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;Mexico&#34; year &gt;= 1940 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "Molothrus ater obscurus county:&#34;San Diego&#34;" ; Times: 4
+	Query: "class:Aves county:&#34;Los Angeles&#34; year &gt;= 2009 year &lt;= 2018 institutioncode:SDNHM" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "class:Aves locality:&#34;San Clemente Island&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "psaltria hastissue:1" ; Times: 3
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "caracara lutosa" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
