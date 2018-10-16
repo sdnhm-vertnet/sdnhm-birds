@@ -1,0 +1,495 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 729
+Number of records retrieved in searches: 3167
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 676
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 32
+	Date: 2018-03-29 ; Times: 32
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 4
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-14 ; Times: 12
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 6
+	Date: 2018-03-19 ; Times: 21
+	Date: 2018-03-18 ; Times: 14
+	Date: 2018-03-01 ; Times: 8
+	Date: 2018-03-02 ; Times: 251
+	Date: 2018-03-03 ; Times: 23
+	Date: 2018-03-04 ; Times: 9
+	Date: 2018-03-05 ; Times: 23
+	Date: 2018-03-28 ; Times: 18
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 8
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-23 ; Times: 47
+	Date: 2018-03-20 ; Times: 16
+	Date: 2018-03-21 ; Times: 47
+	Date: 2018-03-27 ; Times: 57
+	Date: 2018-03-26 ; Times: 75
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 5
+	Query: "catalognumber:1552 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1806 institutioncode:SDNHM" ; Times: 2
+	Query: "ptilinopus jambu" ; Times: 1
+	Query: "catalognumber:2053 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:863 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1550 institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:leucophrys genus:Zonotrichia year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "catalognumber:1179 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "catalognumber:1118 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Pluvianellus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:54187 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:2081 institutioncode:SDNHM" ; Times: 4
+	Query: "catalognumber:1733 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:741 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:656 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "catalognumber:789 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:difficilis genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "setophaga coronata nigrifrons" ; Times: 1
+	Query: "catalognumber:53941 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:54189 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "catalognumber:210 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 6
+	Query: "catalognumber:2082 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:834 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 23
+	Query: "porphyraceus" ; Times: 1
+	Query: "catalognumber:1496 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:54181 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1897 institutioncode:SDNHM" ; Times: 2
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "catalognumber:740 institutioncode:SDNHM" ; Times: 2
+	Query: "Patagioenas leucocephala" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "aquila clanga" ; Times: 2
+	Query: "institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "Junco insularis" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "catalognumber:1814 institutioncode:SDNHM" ; Times: 2
+	Query: "15119" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "genus:Cyanoramphus specificepithet:auriceps" ; Times: 6
+	Query: "catalognumber:1810 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Casuarius specificepithet:unappendiculatus" ; Times: 5
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "locality:Santo Domingo stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anseranas skeleton" ; Times: 5
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 2
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "catalognumber:196 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1880 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:2146 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "Guadalupe specificepithet:calendula genus:Regulus" ; Times: 1
+	Query: "catalognumber:1853 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:54184 institutioncode:SDNHM" ; Times: 1
+	Query: "16171" ; Times: 3
+	Query: "stachyris thoracica" ; Times: 3
+	Query: "genus:Eutoxeres specificepithet:condamini" ; Times: 5
+	Query: "catalognumber:862 institutioncode:SDNHM" ; Times: 2
+	Query: "Aechmophorus hastissue:1" ; Times: 3
+	Query: "catalognumber:1551 institutioncode:SDNHM" ; Times: 2
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "class:Aves (28984)" ; Times: 1
+	Query: "catalognumber:1738 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1196 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1881 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:cucullata genus:Cyanolyca institutioncode:SDNHM" ; Times: 1
+	Query: "Aratinga erythrogenys" ; Times: 1
+	Query: "locality:danzante country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:harrisi" ; Times: 5
+	Query: "catalognumber:2054 institutioncode:SDNHM" ; Times: 2
+	Query: "24890" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 5
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "catalognumber:1855 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:33447 institutioncode:SDNHM" ; Times: 2
+	Query: "12594 R" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides hastissue:1" ; Times: 1
+	Query: "catalognumber:2093 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:653 institutioncode:SDNHM" ; Times: 2
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "catalognumber:1305 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53944 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:772 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:traillii genus:empidonax hastissue:1" ; Times: 2
+	Query: "mummy" ; Times: 5
+	Query: "catalognumber:1808 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:54182 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1854 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 2
+	Query: "catalognumber:1868 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1898 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:54186 institutioncode:SDNHM" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "nothura nigroguttata" ; Times: 2
+	Query: "callipepla decolorata" ; Times: 1
+	Query: "toxostoma maculatum" ; Times: 3
+	Query: "catalognumber:17304 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "catalognumber:776 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Ortalis  specificepithet:vetula " ; Times: 3
+	Query: "plegadis ridgwayi" ; Times: 3
+	Query: "catalognumber:54188 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:2043 institutioncode:SDNHM" ; Times: 1
+	Query: "liocichla omeiensis" ; Times: 2
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 2
+	Query: "catalognumber:777 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 5
+	Query: "genus:Pluvianellus" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "catalognumber:537 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53946 institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:traillii genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "catalognumber:1576 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Neophema specificepithet:elegans" ; Times: 6
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 5
+	Query: "catalognumber:1287 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Coua specificepithet:cristata" ; Times: 6
+	Query: "catalognumber:1618 institutioncode:SDNHM" ; Times: 2
+	Query: "Aves institutioncode:SDNHM hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:768 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:bulleri family:Procellariidae county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:1425 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53945 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:1426 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "catalognumber:967 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "52261" ; Times: 1
+	Query: "catalognumber:1812 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+	Query: "grallaria erythrotis" ; Times: 1
+	Query: "(mammal) institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1617 institutioncode:SDNHM" ; Times: 2
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 2
+	Query: "catalognumber:192 institutioncode:SDNHM" ; Times: 3
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 5
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "R 23339" ; Times: 1
+	Query: "Melozone biarcuata" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "garrulax courtoisi" ; Times: 3
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 5
+	Query: "catalognumber:1813 institutioncode:SDNHM" ; Times: 2
+	Query: "Myiopsitta monachus " ; Times: 1
+	Query: "genus:Neophema specificepithet:splendida" ; Times: 6
+	Query: "specificepithet:stelleri class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1929" ; Times: 2
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "catalognumber:1429 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 2
+	Query: "catalognumber:1144 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1811 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Pilherodius" ; Times: 1
+	Query: "catalognumber:40486 institutioncode:SDNHM" ; Times: 1
+	Query: "guadalupe caracara" ; Times: 5
+	Query: "catalognumber:1991 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 5
+	Query: "catalognumber:15763 institutioncode:SDNHM" ; Times: 1
+	Query: "atlapetes gutturalis" ; Times: 1
+	Query: "catalognumber:2052 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "catalognumber:1428 institutioncode:SDNHM" ; Times: 2
+	Query: "Lonchura malacca " ; Times: 2
+	Query: "catalognumber:53947 institutioncode:SDNHM" ; Times: 3
+	Query: "vntype:specimen genus:Aptenodytes hastissue:1" ; Times: 1
+	Query: "catalognumber:1304 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 2
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 5
+	Query: "Alectoris melanocephala" ; Times: 1
+	Query: "genus:Anseranas specificepithet:semipalmata" ; Times: 5
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "catalognumber:1955 institutioncode:SDNHM" ; Times: 2
+	Query: "vultur" ; Times: 2
+	Query: "psophia hastissue:1" ; Times: 3
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "catalognumber:1180 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1647 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "recordedby:Taylor year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "catalognumber:1193 institutioncode:SDNHM" ; Times: 2
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "catalognumber:780 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Phaethornis specificepithet:superciliosus" ; Times: 2
+	Query: "genus:Balaeniceps specificepithet:rex" ; Times: 5
+	Query: "catalognumber:54185 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:197 institutioncode:SDNHM" ; Times: 3
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "catalognumber:1427 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Ptilinopus specificepithet:superbus" ; Times: 2
+	Query: "class:Aves (24335)" ; Times: 2
+	Query: "catalognumber:1887 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53942 institutioncode:SDNHM" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "catalognumber:1896 institutioncode:SDNHM" ; Times: 2
+	Query: "sex:female specificepithet: nigripes " ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 14
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "family:Spheniscidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "catalognumber:1171 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1288 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 2
+	Query: "genus:Creagrus specificepithet:furcatus" ; Times: 5
+	Query: "catalognumber:1195 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1996 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 2
+	Query: "genus:linurgus specificepithet:olivaceus basisofrecord:PreservedSpecimen class:aves" ; Times: 2
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "catalognumber:54183 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1802 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1229 institutioncode:SDNHM" ; Times: 2
+	Query: "15144" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "genus:Neodrepanis specificepithet:coruscans" ; Times: 6
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "catalognumber:779 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1815 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1816 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:868 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1807 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Coracias specificepithet:cyanogaster" ; Times: 6
+	Query: "26356" ; Times: 1
+	Query: "catalognumber:2135 institutioncode:SDNHM" ; Times: 2
+	Query: "(aves) institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:288 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 5
+	Query: "catalognumber:53948 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1801 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 5
+	Query: "catalognumber:1883 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:2083 institutioncode:SDNHM" ; Times: 3
+	Query: "(psophia) hastissue:1" ; Times: 4
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "catalognumber:1289 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:ardesiaca genus:Egretta institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "catalognumber:1430 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53943 institutioncode:SDNHM" ; Times: 1
+	Query: "toxostoma insularum" ; Times: 2
+	Query: "class:Aves preparations:skin catalognumber:12541" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "genus:Steatornis specificepithet:caripensis" ; Times: 5
+	Query: "catalognumber:1869 institutioncode:SDNHM" ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "catalognumber:835 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1725 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:2085 institutioncode:SDNHM" ; Times: 2
+	Query: "18525" ; Times: 1
+	Query: "catalognumber:2041 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1867 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "catalognumber:289 institutioncode:SDNHM" ; Times: 2
+	Query: "47432`" ; Times: 1
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "catalognumber:1290 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:taranta genus:Agapornis" ; Times: 6
+	Query: "catalognumber:1890 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53940 institutioncode:SDNHM" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "catalognumber:1805 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:banksiana genus:Neolalage class:Aves" ; Times: 1
+	Query: "catalognumber:1285 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1495 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:781 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:769 institutioncode:SDNHM" ; Times: 2
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "catalognumber:53939 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:1899 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:lichtensteini class:AVES" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "catalognumber:778 institutioncode:SDNHM" ; Times: 2
+	Query: "Falco biarmicus" ; Times: 1
+	Query: "Pelecanoides garnotii" ; Times: 1
+	Query: "catalognumber:2086 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Nestor specificepithet:notabilis" ; Times: 5
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "genus:Ramphastos specificepithet:dicolorus" ; Times: 5
+	Query: "catalognumber:1990 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "progne subis hesperia" ; Times: 1
+	Query: "catalognumber:54190 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1677 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:oxyruncus" ; Times: 1
+	Query: "Streptopelia decaocto " ; Times: 1
+	Query: "toxostoma trinitatis" ; Times: 2
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 2
+	Query: "catalognumber:2042 institutioncode:SDNHM" ; Times: 5
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+	Query: "catalognumber:1800 institutioncode:SDNHM" ; Times: 2
+	Query: "ara militaris" ; Times: 2
+	Query: "genus:Cyclopsitta specificepithet:diophthalma" ; Times: 6
+	Query: "distance(location,geopoint(43.876020568143,-116.984272122))&lt;2128" ; Times: 1
+	Query: "catalognumber:775 institutioncode:SDNHM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1284 download events in this period)
+Total number of records downloaded: 1194
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 6
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 6
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-04 ; Times: 5
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+	Date: 2018-03-27 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "psophia hastissue:1" ; Times: 2
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "paroaria gularis" ; Times: 1
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "cephalopterus ornatus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "setophaga coronata nigrifrons" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "(psophia) hastissue:1" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "pycnonotus plumosus" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 1
+	Query: "Alectoris melanocephala" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus country:&#34;mexico&#34;" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "sakesphorus canadensis" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "locality:Santo Domingo stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "emberiza aureola" ; Times: 2
+	Query: "Pyriglena leuconota" ; Times: 1
+	Query: "Aves institutioncode:SDNHM hassex:1 hasmass:1" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "Buteo plagiatus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "locality:San Jose stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "psaltria hastissue:1" ; Times: 1
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
