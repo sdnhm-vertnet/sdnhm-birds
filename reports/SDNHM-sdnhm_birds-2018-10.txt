@@ -1,0 +1,254 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1587
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 15
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 152
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 11
+	Date: 2018-10-04 ; Times: 4
+	Date: 2018-10-05 ; Times: 8
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-03 ; Times: 20
+	Date: 2018-10-30 ; Times: 11
+	Date: 2018-10-22 ; Times: 15
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-20 ; Times: 4
+	Date: 2018-10-21 ; Times: 4
+	Date: 2018-10-26 ; Times: 11
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-25 ; Times: 19
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 8
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 6
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-13 ; Times: 17
+	Date: 2018-10-12 ; Times: 6
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 6
+	Date: 2018-10-17 ; Times: 5
+	Date: 2018-10-16 ; Times: 6
+	Date: 2018-10-15 ; Times: 9
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:celaeno genus:Rhodothraupis institutioncode:SDNHM" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "recordedby:&#34;K. L. Dixon&#34;" ; Times: 1
+	Query: "Falco columbarius suckleyi" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:&#34;Arnold&#34; year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 2
+	Query: "minnesota Colaptes auratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;California&#34; year &gt;= 1899 year &lt;= 2006 month &gt;= 3 month &lt;= 6 hastissue:1" ; Times: 2
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2006 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "genus:gyps preparations:skeleton institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "macrocephalon maleo" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 21
+	Query: "Leucosticte dawsoni" ; Times: 7
+	Query: "arborophila orientalis" ; Times: 3
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 2
+	Query: "53793" ; Times: 1
+	Query: "pitta brachyura" ; Times: 2
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "Leucosticte wallowa" ; Times: 3
+	Query: "megascops kennicottii hastissue:1" ; Times: 1
+	Query: "specificepithet:(iliaca) megarhyncha genus:Passerella class:aves year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "genus:Caryothraustes institutioncode:SDNHM" ; Times: 1
+	Query: "crustacean" ; Times: 1
+	Query: "locality:el monte county:&#34;san diego&#34; year &gt;= 1800 year &lt;= 1932" ; Times: 1
+	Query: "catalognumber:2131 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Philetairus preparations:skin" ; Times: 1
+	Query: "genus:Passerina institutioncode:SDNHM" ; Times: 1
+	Query: "minnesota Colaptes auratus luteus" ; Times: 1
+	Query: "county:&#34;san diego&#34; year &gt;= 1958 year &lt;= 1958 month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "tinamus tao brazil" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "vntype:specimen genus:Selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 2010 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Strix hastissue:1" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Ammodramus savannarum floridanus" ; Times: 2
+	Query: "Tinamus tao" ; Times: 14
+	Query: "specificepithet:ludoviciana genus:Piranga county:&#34;San Diego&#34;" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:berrian year &gt;= 1982 year &lt;= 1982" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "county:&#34;san diego&#34; year &gt;= 1939 year &lt;= 1939 month &gt;= 10 month &lt;= 10" ; Times: 1
+	Query: "genus:Passerella class:aves year &gt;= 1910 year &lt;= 1910" ; Times: 2
+	Query: "Leucosticte australis El Paso" ; Times: 1
+	Query: "callipepla decolorata" ; Times: 1
+	Query: "recordedby:KL Dixon" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix preparations:tissue" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "genus:Pheucticus institutioncode:SDNHM" ; Times: 1
+	Query: "&#34;road&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:berrian year &gt;= 1982 year &lt;= 1982 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "vntype:specimen genus:Eurocephalus hastissue:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "campephilus principalis" ; Times: 4
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "ave mimidae" ; Times: 2
+	Query: "minnesota Colaptes auratus auratus" ; Times: 1
+	Query: "Obsoletus Sonora Mexico" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei institutioncode:SDNHM" ; Times: 1
+	Query: "recordedby:K.L. Dixon" ; Times: 2
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:barbatus genus:gypaetus class:Aves" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina hastissue:1" ; Times: 2
+	Query: "Leucosticte dawsoni Inyo" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis preparations:skin" ; Times: 1
+	Query: "Cyanerpes nitidus" ; Times: 1
+	Query: "cantwell minnesota garrulus" ; Times: 1
+	Query: "Dolichonyx oryzivorus hastissue:1" ; Times: 3
+	Query: "limosa fedoa sonora" ; Times: 1
+	Query: "cantwell minnesota" ; Times: 2
+	Query: "52230" ; Times: 1
+	Query: "locality:maria magdalena country:&#34;mexico&#34;" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "specificepithet:leucorhoa institutioncode:SDNHM" ; Times: 4
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "family:cardinalidae institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "genus:gyps institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "family:Cardinalidae institutioncode:SDNHM" ; Times: 1
+	Query: "Shasta County pipilo maculatus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis institutioncode:SDNHM" ; Times: 1
+	Query: "locality:spring valley county:&#34;san diego&#34; year &gt;= 1850 year &lt;= 1932" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2010" ; Times: 1
+	Query: "genus:aplonis hastissue:1" ; Times: 5
+	Query: "17776" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 3
+	Query: "genus:Cyanocompsa institutioncode:SDNHM" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 2
+	Query: "specificepithet:leclancherii genus:Passerina institutioncode:SDNHM" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Cardinalis institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "Leucosticte australis pikes" ; Times: 1
+	Query: "genus:Habia institutioncode:SDNHM" ; Times: 2
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "chino lake california" ; Times: 1
+	Query: "Myiarchus tyrannulus hastissue:1" ; Times: 1
+	Query: "genus:gyps preparations:skeleton" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1300 download events in this period)
+Total number of records downloaded: 1187
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Belgium ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:gambensis genus:Dryoscopus" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "family:Apodidae" ; Times: 1
+	Query: "genus:Philetairus preparations:skin" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
