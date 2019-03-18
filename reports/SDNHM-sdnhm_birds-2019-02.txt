@@ -1,0 +1,543 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 630
+Number of records retrieved in searches: 5383
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: Brazil ; Times: 24
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 526
+	Country: Belgium ; Times: 3
+	Country: Austria ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Paraguay ; Times: 7
+	Country: Argentina ; Times: 3
+	Country: Fiji ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 15
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-11 ; Times: 14
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 18
+	Date: 2019-02-12 ; Times: 103
+	Date: 2019-02-15 ; Times: 11
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 7
+	Date: 2019-02-19 ; Times: 17
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-03 ; Times: 12
+	Date: 2019-02-26 ; Times: 9
+	Date: 2019-02-01 ; Times: 24
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-07 ; Times: 8
+	Date: 2019-02-04 ; Times: 80
+	Date: 2019-02-23 ; Times: 185
+	Date: 2019-02-08 ; Times: 47
+	Date: 2019-02-28 ; Times: 18
+	Date: 2019-02-02 ; Times: 6
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-06 ; Times: 7
+	Date: 2019-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:28343 institutioncode:SDNHM" ; Times: 2
+	Query: "Cardinalis sinuatus peninsulae mappable:1" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "catalognumber:34605 institutioncode:SDNHM" ; Times: 2
+	Query: "county:&#34;san diego&#34; recordedby:Rowe year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "Cardinalis cardinalis floridanus mappable:1" ; Times: 1
+	Query: "specificepithet:hyperythra genus:erythrura class:aves" ; Times: 2
+	Query: "catalognumber:22140 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:22116 institutioncode:SDNHM" ; Times: 3
+	Query: "Phoebastria irrorata" ; Times: 2
+	Query: "Corvus cryptoleucus cryptoleucus mappable:1" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "specificepithet:ajaja genus:platalea stateprovince:&#34;rio grande do norte&#34;" ; Times: 1
+	Query: "specificepithet:alexandrae genus:Polytelis" ; Times: 1
+	Query: "catalognumber:33754 institutioncode:SDNHM" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus bryanti mappable:1" ; Times: 1
+	Query: "Toxostoma lecontei arenicola mappable:1" ; Times: 1
+	Query: "recordedby:Tremor" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "44998" ; Times: 1
+	Query: "catalognumber:43488 institutioncode:SDNHM" ; Times: 2
+	Query: "podiceps major" ; Times: 3
+	Query: "Certhia americana montana mappable:1" ; Times: 1
+	Query: "Corvus cryptoleucus mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides tenebrosus mappable:1" ; Times: 1
+	Query: "specificepithet:hyperythra genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "Callipepla squamata castanogastris mappable:1" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "Terpsiphone atrocaudata" ; Times: 1
+	Query: "specificepithet:chacuru family:BUCCONIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Cardinalis cardinalis seftoni mappable:1" ; Times: 1
+	Query: "Cephalopterus glabricollis" ; Times: 2
+	Query: "catalognumber:40484 institutioncode:SDNHM" ; Times: 2
+	Query: "Osburn institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:bornea genus:eos (skeleton)" ; Times: 3
+	Query: "polytelis alexandrae" ; Times: 5
+	Query: "catalognumber:1784 institutioncode:SDNHM" ; Times: 1
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "catalognumber:32776 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:42840 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:43477 institutioncode:SDNHM" ; Times: 2
+	Query: "rhynchotus" ; Times: 1
+	Query: "catalognumber:23253 institutioncode:SDNHM" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus sandiegensis mappable:1" ; Times: 1
+	Query: "Certhia americana zelotes mappable:1" ; Times: 1
+	Query: "catalognumber:32986 institutioncode:SDNHM" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus purus mappable:1" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "catalognumber:28380 institutioncode:SDNHM" ; Times: 2
+	Query: "vntype:specimen specificepithet:sulphurea genus:cacatua (skeleton)" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "catalognumber:22229 institutioncode:SDNHM" ; Times: 2
+	Query: "Toxostoma curvirostre celsum mappable:1" ; Times: 1
+	Query: "catalognumber:42475 institutioncode:SDNHM" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "catalognumber:43453 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:maculatus genus:Pipilo stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:2819 institutioncode:SDNHM" ; Times: 2
+	Query: "Forpus xanthops" ; Times: 1
+	Query: "catalognumber:40483 institutioncode:SDNHM" ; Times: 2
+	Query: "Callipepla californica achrustera mappable:1" ; Times: 1
+	Query: "catalognumber:1044 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Setophaga catalognumber:11699" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "specificepithet:cheriway genus:caracara class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:43295 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "Callipepla douglasii mappable:1" ; Times: 1
+	Query: "niltava griseiventris" ; Times: 1
+	Query: "catalognumber:42474 institutioncode:SDNHM" ; Times: 2
+	Query: "Auriparus flaviceps lamprocephalus mappable:1" ; Times: 5
+	Query: "Cephalopterus penduliger" ; Times: 2
+	Query: "Pluvianus" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:35544 institutioncode:SDNHM" ; Times: 2
+	Query: "skeleton vntype:specimen specificepithet:semilarvata genus:Eos" ; Times: 1
+	Query: "catalognumber:36683 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:43415 institutioncode:SDNHM" ; Times: 2
+	Query: "Numenius tahitiensis" ; Times: 2
+	Query: "specificepithet:tricolor genus:erythrura class:aves" ; Times: 1
+	Query: "Amphispiza bilineata bangsi mappable:1" ; Times: 4
+	Query: "genus:TAPERA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:22117 institutioncode:SDNHM" ; Times: 2
+	Query: "Melanitta americana" ; Times: 1
+	Query: "Amphispiza bilineata pacifica mappable:1" ; Times: 4
+	Query: "Aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "catalognumber:33785 institutioncode:SDNHM" ; Times: 2
+	Query: "Polioptila californica mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bornea genus:eos (skeleton) hassex:1" ; Times: 1
+	Query: "catalognumber:28334 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:33773 institutioncode:SDNHM" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus affinis mappable:1" ; Times: 2
+	Query: "catalognumber:23251 institutioncode:SDNHM" ; Times: 1
+	Query: "Pauxi pauxi" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "terns" ; Times: 1
+	Query: "catalognumber:11495 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:53034 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Cardinalis sinuatus fulvescens mappable:1" ; Times: 3
+	Query: "Guadalupe specificepithet:leucorhoa genus:Oceanodroma institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:23254 institutioncode:SDNHM" ; Times: 2
+	Query: "Amphispiza bilineata Amphispiza bilineata bangsi mappable:1" ; Times: 2
+	Query: "Amphispiza bilineata tortugae mappable:1" ; Times: 4
+	Query: "35018" ; Times: 1
+	Query: "Melozone crissalis senicula mappable:1" ; Times: 1
+	Query: "Callipepla californica plumbea mappable:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus class:Aves" ; Times: 1
+	Query: "class:aves catalognumber:30040" ; Times: 3
+	Query: "catalognumber:36579 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:43414 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:28482 institutioncode:SDNHM" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "catalognumber:2131 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:33755 institutioncode:SDNHM" ; Times: 2
+	Query: "phaethon aethereus" ; Times: 2
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 1
+	Query: "Tinamus tao" ; Times: 2
+	Query: "Strix occidentalis o" ; Times: 2
+	Query: "Amazilia boucardi" ; Times: 1
+	Query: "catalognumber:23433 institutioncode:SDNHM" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus guttatus mappable:1" ; Times: 1
+	Query: "Sitta carolinensis lagunae mappable:1" ; Times: 1
+	Query: "catalognumber:23603 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:42032 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &gt;= 1885 year &lt;= 1955" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus seri mappable:1" ; Times: 1
+	Query: "catalognumber:2990 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:pyrrhura hastissue:1" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Colaptes chrysoides mearnsi mappable:1" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 2
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "SDSU" ; Times: 1
+	Query: "catalognumber:23384 institutioncode:SDNHM" ; Times: 1
+	Query: "caracara lutosa" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "Corvus corax clarionensis mappable:1" ; Times: 1
+	Query: "catalognumber:31219 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:33783 institutioncode:SDNHM" ; Times: 2
+	Query: "block island class:aves stateprovince:&#34;rhode island&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 2
+	Query: "Callipepla gambelii fulvipectus mappable:1" ; Times: 1
+	Query: "genus:Microhierax (skel OR skeleton)" ; Times: 1
+	Query: "Callipepla californica catalinensis mappable:1" ; Times: 1
+	Query: "colaptes brunnescens" ; Times: 2
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Melozone crissalis petulans mappable:1" ; Times: 1
+	Query: "catalognumber:37270 institutioncode:SDNHM" ; Times: 2
+	Query: "family:Icteridae year &gt;= 1850 year &lt;= 1890 institutioncode:SDNHM" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 6
+	Query: "tinamotis" ; Times: 1
+	Query: "Colaptes chrysoides brunnescens mappable:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "30254 class:AVES" ; Times: 1
+	Query: "catalognumber:22228 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:3121 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:43294 institutioncode:SDNHM" ; Times: 2
+	Query: "Polioptila melanura curtata mappable:1" ; Times: 1
+	Query: "catalognumber:2951 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:31212 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:950 institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:semilarvata genus:eos (skeleton) hassex:1" ; Times: 1
+	Query: "catalognumber:22127 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:2820 institutioncode:SDNHM" ; Times: 2
+	Query: "Corvus corax sinuatus mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides mappable:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:bornea genus:Eos" ; Times: 1
+	Query: "catalognumber:40393 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:nomonyx country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "catalognumber:22227 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "Callipepla squamata pallida mappable:1" ; Times: 2
+	Query: "Caracara lutosa" ; Times: 4
+	Query: "pilherodius" ; Times: 1
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 2
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos (skeleton)" ; Times: 1
+	Query: "catalognumber:2189 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:43315 institutioncode:SDNHM" ; Times: 2
+	Query: "Megascops kennicottii hastissue:1" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 2
+	Query: "Callipepla californica decolorata mappable:1" ; Times: 1
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "Chroicocephalus maculipennis mappable:1" ; Times: 1
+	Query: "anodorhynchus hyacinthinus" ; Times: 1
+	Query: "catalognumber:28379 institutioncode:SDNHM" ; Times: 2
+	Query: "spinus cucullatus" ; Times: 2
+	Query: "specificepithet:castaneus genus:celeus" ; Times: 1
+	Query: "Polioptila melanura melanura mappable:1" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "catalognumber:3386 institutioncode:SDNHM" ; Times: 2
+	Query: "aves baker 1906" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "Aphelocoma country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:metallica genus:Aplonis hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Sonora&#34; recordedby:Huey" ; Times: 1
+	Query: "catalognumber:28339 institutioncode:SDNHM" ; Times: 3
+	Query: "Toxostoma crissale coloradense mappable:1" ; Times: 1
+	Query: "catalognumber:33752 institutioncode:SDNHM" ; Times: 2
+	Query: "vntype:specimen specificepithet:semilarvata genus:eos (skeleton)" ; Times: 1
+	Query: "catalognumber:35200 institutioncode:SDNHM" ; Times: 2
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "vntype:specimen specificepithet:cayana genus:cotinga (skeleton)" ; Times: 1
+	Query: "Henicophaps albifrons" ; Times: 1
+	Query: "catalognumber:38942 institutioncode:SDNHM" ; Times: 2
+	Query: "Strix occidentalis ca" ; Times: 1
+	Query: "catalognumber:40325 institutioncode:SDNHM" ; Times: 2
+	Query: "Certhia americana occidentalis mappable:1" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 1
+	Query: "Progne subis arizona" ; Times: 2
+	Query: "nothura nigroguttata" ; Times: 2
+	Query: "Sitta carolinensis nelsoni mappable:1" ; Times: 1
+	Query: "Polioptila californica pontilis mappable:1" ; Times: 1
+	Query: "Penelope pileata" ; Times: 1
+	Query: "Corvus corax principalis mappable:1" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 1
+	Query: "Anthus nattereri" ; Times: 2
+	Query: "Crax rubra" ; Times: 3
+	Query: "32777" ; Times: 2
+	Query: "Auriparus flaviceps ornatus mappable:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:funereus genus:calyptorhynchus (skeleton)" ; Times: 1
+	Query: "Amphispiza bilineata deserticola mappable:1" ; Times: 4
+	Query: "Pterodroma defilippiana" ; Times: 2
+	Query: "catalognumber:23336 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:43477 institutioncode:sdnhm" ; Times: 2
+	Query: "Cardinalis cardinalis townsendi mappable:1" ; Times: 1
+	Query: "catalognumber:1965 institutioncode:SDNHM" ; Times: 4
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "catalognumber:3394 institutioncode:SDNHM" ; Times: 2
+	Query: "block island stateprovince:&#34;rhode island&#34;" ; Times: 1
+	Query: "catalognumber:41128 institutioncode:SDNHM" ; Times: 2
+	Query: "Amazona auropalliata" ; Times: 2
+	Query: "Spheniscus mendiculus" ; Times: 1
+	Query: "Cardinalis cardinalis igneus mappable:1" ; Times: 1
+	Query: "catalognumber:1690 institutioncode:SDNHM" ; Times: 1
+	Query: "Polioptila melanura mappable:1" ; Times: 1
+	Query: "catalognumber:41180 institutioncode:SDNHM" ; Times: 2
+	Query: "family:Icteridae year &gt;= 2010 institutioncode:SDNHM" ; Times: 1
+	Query: "Erythrura pealii" ; Times: 1
+	Query: "catalognumber:31220 institutioncode:SDNHM" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Sitta carolinensis alexandrae mappable:1" ; Times: 1
+	Query: "Pterodroma incerta" ; Times: 2
+	Query: "Thalassarche salvini" ; Times: 2
+	Query: "catalognumber:43868 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:2950 institutioncode:SDNHM" ; Times: 2
+	Query: "35018 aves" ; Times: 1
+	Query: "Vireo bellii arizonae mappable:1" ; Times: 3
+	Query: "specificepithet:hammondii genus:Empidonax stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Certhia americana leucosticta mappable:1" ; Times: 1
+	Query: "catalognumber:33750 institutioncode:SDNHM" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigrorufa genus:Poospiza" ; Times: 1
+	Query: "vntype:specimen specificepithet:sanguinea genus:cacatua (skeleton)" ; Times: 1
+	Query: "catalognumber:3211 institutioncode:SDNHM" ; Times: 2
+	Query: "Melozone fusca mesoleuca mappable:1" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "catalognumber:22230 institutioncode:SDNHM" ; Times: 4
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "Coccyzus ferrugineus" ; Times: 1
+	Query: "catalognumber:28340 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:22448 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:pavonina genus:Balearica" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "craveri" ; Times: 1
+	Query: "catalognumber:28466 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo year &gt;= 2007 year &lt;= 2009" ; Times: 1
+	Query: "Cardinalis cardinalis canicaudus mappable:1" ; Times: 1
+	Query: "catalognumber:40485 institutioncode:SDNHM" ; Times: 2
+	Query: "Callipepla douglasii bensoni mappable:1" ; Times: 1
+	Query: "catalognumber:34067 institutioncode:SDNHM" ; Times: 2
+	Query: "county:&#34;san diego&#34; recordedby:Mahrdt year &gt;= 1975 year &lt;= 1975 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:mikado class:aves" ; Times: 10
+	Query: "13701" ; Times: 1
+	Query: "Asthenes modesta" ; Times: 1
+	Query: "vntype:specimen specificepithet:galerita genus:cacatua (skeleton)" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "Spinus cucullatus" ; Times: 2
+	Query: "catalognumber:31779 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:23252 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:34010 institutioncode:SDNHM" ; Times: 2
+	Query: "Callipepla douglasii douglasii mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "catalognumber:42105 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:33751 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:CHOLIBA family:STRIGIDAE country:&#34;paraguay&#34;" ; Times: 1
+	Query: "aplonis metallica hastissue:1" ; Times: 1
+	Query: "locality:Las Penas institutioncode:SDNHM" ; Times: 1
+	Query: "poecile Missouri" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "Toxostoma curvirostre maculatum mappable:1" ; Times: 1
+	Query: "Colaptes cafer collaris mappable:1" ; Times: 1
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "catalognumber:41117 institutioncode:SDNHM" ; Times: 2
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "Oxyruncus cristatus mappable:1" ; Times: 2
+	Query: "family:Otididae hastissue:1" ; Times: 2
+	Query: "Sitta carolinensis aculeata mappable:1" ; Times: 1
+	Query: "Aphelocoma woodhouseii year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Polioptila melanura lucida mappable:1" ; Times: 1
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 2
+	Query: "Toxostoma curvirostre palmeri mappable:1" ; Times: 1
+	Query: "Crax blumenbachii" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "catalognumber:35334 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:gouldiae genus:chloebia class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Tachyeres leucocephalus" ; Times: 2
+	Query: "Cardinalis cardinalis affinis mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Norte&#34;" ; Times: 10
+	Query: "catalognumber:41564 institutioncode:SDNHM" ; Times: 2
+	Query: "Pterodroma externa" ; Times: 2
+	Query: "catalognumber:31214 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma institutioncode:SDNHM" ; Times: 2
+	Query: "P.I. Osborn" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 3
+	Query: "P.I. Osburn" ; Times: 2
+	Query: "catalognumber:312 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:34641 institutioncode:SDNHM" ; Times: 2
+	Query: "carduelis cucullatus" ; Times: 1
+	Query: "Polioptila californica atwoodi mappable:1" ; Times: 1
+	Query: "P.I. Osburn institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:tricolor genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Colaptes chrysoides chrysoides mappable:1" ; Times: 1
+	Query: "genus:Fratercula year &gt;= 2004 year &lt;= 2005" ; Times: 1
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "agave" ; Times: 1
+	Query: "Cardinalis cardinalis superbus mappable:1" ; Times: 1
+	Query: "Callipepla californica brunnescens mappable:1" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "catalognumber:35605 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:36348 institutioncode:SDNHM" ; Times: 2
+	Query: "Certhia americana albescens mappable:1" ; Times: 1
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "31887" ; Times: 2
+	Query: "Auriparus flaviceps acaciarum mappable:1" ; Times: 5
+	Query: "tachyeres patachonicus" ; Times: 1
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "Vireo bellii medius mappable:1" ; Times: 3
+	Query: "specificepithet:nuttallii genus:phalaenoptilus hastissue:1" ; Times: 3
+	Query: "specificepithet:viduata genus:Dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:43766 institutioncode:SDNHM" ; Times: 2
+	Query: "Cardinalis cardinalis magnirostris mappable:1" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Amphispiza bilineata cana mappable:1" ; Times: 4
+	Query: "specificepithet:unicinctus genus:parabuteo class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Toxostoma curvirostre insularum mappable:1" ; Times: 1
+	Query: "Toxostoma crissale trinitatis mappable:1" ; Times: 1
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "catalognumber:43416 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:22105 institutioncode:SDNHM" ; Times: 2
+	Query: "Strix occidentalis caurina" ; Times: 1
+	Query: "genus:Eupodotis hastissue:1" ; Times: 1
+	Query: "catalognumber:43767 institutioncode:SDNHM" ; Times: 2
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "vntype:specimen specificepithet:bornea genus:eos" ; Times: 1
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "Prosopeia splendens" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "Melozone crissalis albigula mappable:1" ; Times: 1
+	Query: "catalognumber:43296 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:33772 institutioncode:SDNHM" ; Times: 2
+	Query: "Pelecanoides garnotii" ; Times: 2
+	Query: "Polioptila californica margaritae mappable:1" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "Sitta carolinensis tenuissima mappable:1" ; Times: 1
+	Query: "catalognumber:33784 institutioncode:SDNHM" ; Times: 3
+	Query: "Anodorhynchus hyacinthinus" ; Times: 8
+	Query: "genus:otis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1227 download events in this period)
+Total number of records downloaded: 49903
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-03 ; Times: 5
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-13 ; Times: 10
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-11 ; Times: 15
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Rio Grande do Norte&#34;" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:bornea genus:Eos" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:castaneus genus:celeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoscepus genus:francolinus" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "poecile Missouri" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "(Aphelocoma) year &gt;= 1985 year &lt;= 1990" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "perisoreus canadensis griseus" ; Times: 1
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "Megascops kennicottii hastissue:1" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Caracara lutosa" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "specificepithet:discurus genus:prioniturus" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
