@@ -1,0 +1,306 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 300
+Number of records retrieved in searches: 1669
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 67
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Denmark ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 184
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 6
+	Date: 2019-03-27 ; Times: 15
+	Date: 2019-03-26 ; Times: 20
+	Date: 2019-03-25 ; Times: 15
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 6
+	Date: 2019-03-06 ; Times: 50
+	Date: 2019-03-01 ; Times: 12
+	Date: 2019-03-29 ; Times: 12
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-15 ; Times: 14
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-19 ; Times: 10
+	Date: 2019-03-16 ; Times: 21
+	Date: 2019-03-17 ; Times: 6
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-02 ; Times: 3
+	Date: 2019-03-12 ; Times: 11
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 12
+	Date: 2019-03-11 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:haliaetus genus:Pandion country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "Skeleton genus:Sternula order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "Skeleton genus:Pluvianellus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 2
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Leptodon cayanensis mappable:1" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wisconsin" ; Times: 4
+	Query: "genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Kansas" ; Times: 4
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 2
+	Query: "Trichoglossus flavoviridis" ; Times: 3
+	Query: "Halcyon senegalensis year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "amphispiza tortugae" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "family:Otididae hastissue:1" ; Times: 3
+	Query: "Cossypha albicapilla" ; Times: 3
+	Query: "Trichoglossus euteles" ; Times: 2
+	Query: "aquila clanga" ; Times: 1
+	Query: "arborophila orientalis" ; Times: 3
+	Query: "Troglodytes tanneri" ; Times: 2
+	Query: "Eos reticulata" ; Times: 6
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Minnesota" ; Times: 4
+	Query: "Cynanthus lawrencei" ; Times: 28
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 2
+	Query: "Skeleton genus:Thinocorus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 2
+	Query: "Enicognathus leptorhynchus" ; Times: 2
+	Query: "Procellaria parkinsoni" ; Times: 1
+	Query: "specificepithet:crissalis genus:Melozone county:&#34;inyo&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Skeleton specificepithet:socialis order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "specificepithet:decumanus genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Vini kuhlii" ; Times: 7
+	Query: "specificepithet:rothschildi class:Aves hastissue:1" ; Times: 1
+	Query: "Skeleton genus:Hydrophasianus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 2
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Phalacrocorax brasilianus mappable:1" ; Times: 1
+	Query: "skeleton genus:Irediparra order:Charadriiformes class:Aves" ; Times: 1
+	Query: "podiceps major" ; Times: 2
+	Query: "Cyrtonyx montezumae" ; Times: 4
+	Query: "Psitteuteles iris" ; Times: 2
+	Query: "strix virgata" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;Arizona&#34; year &gt;= 1845 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maguari genus:ciconia" ; Times: 1
+	Query: "Coeligena phalerata" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "Stanley Park zoo" ; Times: 1
+	Query: "Vini peruviana" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "geranoaetus" ; Times: 1
+	Query: "specificepithet:crissalis genus:Melozone county:&#34;kern&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops hastissue:1" ; Times: 1
+	Query: "genus:Melozone county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Carpodacus year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "genus:Microhierax (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Texas" ; Times: 4
+	Query: "Skeleton genus:Chionis order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "genus:Passer country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Arizona" ; Times: 4
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "vntype:specimen specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "genus:myadestes country:&#34;costa rica&#34;" ; Times: 2
+	Query: "Pitta sordida year &gt;1990" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "Amazilia bartletti" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "specificepithet:bewickii genus:thryomanes hastissue:1" ; Times: 3
+	Query: "genus:haematopus year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "catalognumber:48836 institutioncode:SDNHM" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida country:&#34;Mexico&#34; year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "Skeleton genus:Onychoprion order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:SDNHM" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "38014" ; Times: 1
+	Query: "Skeleton genus:Irediparra order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "Skeleton specificepithet:chirurgus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Cochlearius cochlearius year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "cacatua galerita triton" ; Times: 1
+	Query: "Guadalupe AND Anthony" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oregon" ; Times: 4
+	Query: "oceanodroma markhami" ; Times: 4
+	Query: "campylorhynchus purus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "vntype:specimen specificepithet:philbyi genus:alectoris" ; Times: 1
+	Query: "Skeleton genus:Rostratula order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "cossypha albicapilla" ; Times: 1
+	Query: "genus:Aratinga hassex:1 hastissue:1" ; Times: 1
+	Query: "Forpus xanthops" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "Skeleton genus:Cursorius order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "Thalassarche salvini" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco institutioncode:SDNHM" ; Times: 1
+	Query: "Artemisiospiza Oregon 1929" ; Times: 1
+	Query: "Cinclodes oustaleti" ; Times: 1
+	Query: "Amazona ochrocephala tresmariae" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "48319" ; Times: 1
+	Query: "genus:Pyrrhura hassex:1 hastissue:1" ; Times: 2
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "specificepithet:tanneri genus:Troglodytes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eunymphicus cornutus hastissue:1" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "Skeleton genus:Cursorius order:Charadriiformes class:Aves AND (NOT juvenile)" ; Times: 1
+	Query: "arborophila sumatrana" ; Times: 1
+	Query: "Pluvianus" ; Times: 2
+	Query: "genus:dendragapus year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "Carpococcyx" ; Times: 2
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "geranoaetus melanoleucus" ; Times: 2
+	Query: "vntype:specimen genus:Anous hastissue:1" ; Times: 1
+	Query: "genus:Cursorius order:Charadriiformes class:Aves institutioncode:SDNHM" ; Times: 1
+	Query: "amphispiza pacifica" ; Times: 2
+	Query: "vntype:specimen order:Charadriiformes class:Aves (Skeleton) institutioncode:SDNHM" ; Times: 4
+	Query: "genus:junco AND specificepithet:hyemalis (skeleton) institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Alectoris" ; Times: 1
+	Query: "Milvago chimango mappable:1" ; Times: 1
+	Query: "Rollulus rouloul" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "Eos semilarvata" ; Times: 6
+	Query: "spizella wortheni" ; Times: 1
+	Query: "genus:Eupodotis hastissue:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:melanocephala genus:alectoris" ; Times: 1
+	Query: "amphispiza cana" ; Times: 4
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Trichoglossus meyeri" ; Times: 2
+	Query: "Tinamus tao" ; Times: 2
+	Query: "specificepithet:huttoni genus:Vireo hastypestatus:1" ; Times: 1
+	Query: "Pelecanoides garnotii" ; Times: 1
+	Query: "specificepithet:stormi" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cacatua galerita galerita" ; Times: 2
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1281 download events in this period)
+Total number of records downloaded: 822
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: United Kingdom ; Times: 17
+	Country: Argentina ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-16 ; Times: 6
+	Date: 2019-03-17 ; Times: 7
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-01 ; Times: 4
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "genus:Pyrrhura hassex:1 hastissue:1" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "geranoaetus melanoleucus" ; Times: 1
+	Query: "Amazilia bartletti" ; Times: 1
+	Query: "Vini kuhlii" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Psitteuteles iris" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (alcohol OR alc)" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Loriculus stigmatus" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "Coeligena phalerata" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "Vini peruviana" ; Times: 1
+	Query: "genus:junco AND specificepithet:hyemalis (skeleton) institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Trichoglossus euteles" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 1
+	Query: "Trichoglossus ornatus" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Aratinga hassex:1 hastissue:1" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Enicognathus leptorhynchus" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "vntype:specimen genus:todiramphus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+
+
+End of report.
