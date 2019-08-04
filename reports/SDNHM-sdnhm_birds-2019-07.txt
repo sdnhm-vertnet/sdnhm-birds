@@ -1,0 +1,414 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 418
+Number of records retrieved in searches: 4714
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 29
+	Country: Panama ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: Venezuela ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 127
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Gambia ; Times: 4
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 195
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 43
+	Date: 2019-07-18 ; Times: 21
+	Date: 2019-07-19 ; Times: 7
+	Date: 2019-07-08 ; Times: 62
+	Date: 2019-07-12 ; Times: 34
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 9
+	Date: 2019-07-11 ; Times: 7
+	Date: 2019-07-16 ; Times: 17
+	Date: 2019-07-17 ; Times: 26
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 19
+	Date: 2019-07-02 ; Times: 15
+	Date: 2019-07-03 ; Times: 10
+	Date: 2019-07-23 ; Times: 7
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-21 ; Times: 7
+	Date: 2019-07-20 ; Times: 11
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 4
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 5
+	Date: 2019-07-01 ; Times: 5
+	Date: 2019-07-30 ; Times: 12
+	Date: 2019-07-29 ; Times: 11
+	Date: 2019-07-28 ; Times: 9
+	Date: 2019-07-05 ; Times: 35
+	Date: 2019-07-04 ; Times: 10
+	Date: 2019-07-07 ; Times: 8
+	Date: 2019-07-06 ; Times: 5
+	Date: 2019-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Cacatua sulphurea" ; Times: 1
+	Query: "genus:Capsiempis specificepithet:flaveola" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 2
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "Hypergerus atriceps skeleton" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "Pauxi pauxi" ; Times: 1
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 palmer" ; Times: 1
+	Query: "Pandion AND San Benito" ; Times: 2
+	Query: "defilippiana" ; Times: 1
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 6
+	Query: "Oceanodroma markhami" ; Times: 15
+	Query: "Strix occidentalis lucida mappable:1" ; Times: 2
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 2
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "Turdus migratorius AND Catalina" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Odontophorus hyperythrus" ; Times: 2
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "markhami year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Agapornis taranta" ; Times: 1
+	Query: "maoriana" ; Times: 1
+	Query: "Ara militaris mappable:1" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "genus:Vini specificepithet:australis" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "genus:Manacus specificepithet:manacus" ; Times: 1
+	Query: "Polioptila californica mappable:1" ; Times: 4
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "genus:Remiz specificepithet:pendulinus" ; Times: 1
+	Query: "catalognumber:54036 institutioncode:SDNHM" ; Times: 2
+	Query: "pelagodroma marina new zealand" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Pseudoseisura gutturalis" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 4
+	Query: "Alisterus amboinensis" ; Times: 1
+	Query: "SDNHM Birds 51832" ; Times: 3
+	Query: "genus:gymnogyps preparations:skeleton" ; Times: 6
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "family:alcidae locality:geronimo" ; Times: 2
+	Query: "fregetta year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "eremita hastissue:1" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "pelagodroma new zealand" ; Times: 1
+	Query: "phalacrocorax bougainvillii" ; Times: 1
+	Query: "SDNHM Birds 50807" ; Times: 2
+	Query: "family:alcidae locality:martin" ; Times: 4
+	Query: "Amazona dufresniana" ; Times: 1
+	Query: "Turdus migratorius AND Catalina NOT Arizona" ; Times: 1
+	Query: "thryomanes magdalenensis" ; Times: 1
+	Query: "Vini kuhlii" ; Times: 1
+	Query: "genus:Chlorostilbon specificepithet:mellisugus" ; Times: 1
+	Query: "genus:Pyrrhura specificepithet:frontalis" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 4
+	Query: "Oceanodroma socorroensis" ; Times: 5
+	Query: "procellariiformes institutioncode:SDNHM" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:ruficeps genus:Pyrrhocoma class:Aves" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius hastissue:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:contaminatus genus:Heliobletus class:Aves" ; Times: 1
+	Query: "SDNHM Birds 51808" ; Times: 1
+	Query: "specificepithet:homochroa year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "SDNHM Birds 51805" ; Times: 1
+	Query: "Pseudoleistes virescens mappable:1" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis year &gt;= 1980 month &gt;= 7 month &lt;= 9" ; Times: 1
+	Query: "Empidonax traillii extimus mappable:1" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 Antarctica" ; Times: 1
+	Query: "Eremophila alpestris strigata mappable:1" ; Times: 5
+	Query: "Junco insularis" ; Times: 1
+	Query: "aves institutioncode:SDNHM" ; Times: 1
+	Query: "Vini peruviana" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2019 mexico" ; Times: 1
+	Query: "genus:Eupherusa specificepithet:eximia" ; Times: 1
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 1
+	Query: "Tangara preciosa mappable:1" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Sternula antillarum browni mappable:1" ; Times: 3
+	Query: "Caprimulgus ridgwayi California" ; Times: 1
+	Query: "Sternula antillarum mappable:1" ; Times: 5
+	Query: "genus:Pericrocotus specificepithet:cinnamomeus" ; Times: 1
+	Query: "5440 tyrannus" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "specificepithet:townsendi genus:setophaga year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "specificepithet:atricapilla genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "SDNHM Birds 54201" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "Coccyzus americanus occidentalis mappable:1" ; Times: 1
+	Query: "Necrosyrtes monachus skeleton" ; Times: 3
+	Query: "Agapornis lilianae" ; Times: 6
+	Query: "SDNHM Birds procellariiformes year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "genus:Phylloscartes specificepithet:ventralis" ; Times: 1
+	Query: "niltava griseiventris" ; Times: 2
+	Query: "SDNHM Birds procellariiformes" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 33
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "tangara arthus aequatorialis" ; Times: 1
+	Query: "oceanodroma castro" ; Times: 2
+	Query: "Embernagra platensis mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:Alcidae class:aves country:&#34;mexico&#34;" ; Times: 4
+	Query: "Trichothraupis melanops mappable:1" ; Times: 1
+	Query: "pachyptila turtur new zealand" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 2
+	Query: "specificepithet:montanus genus:Charadrius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "Oceanites oceanicus exasperatus" ; Times: 2
+	Query: "buteo plagiatus" ; Times: 9
+	Query: "family:Alcidae locality:coronados country:&#34;mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufidorsa genus:Ceyx" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Rallus crepitans south carolina" ; Times: 1
+	Query: "Nectarinia coccinigastra" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 1
+	Query: "genus:bubo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "SDNHM Birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:FEMORALIS genus:FALCO family:FALCONIDAE stateprovince:&#34;NEW MEXICO&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "SDNHM Birds 50807 tissue 2000" ; Times: 1
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "genus:synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "pelagodroma marina maoriana" ; Times: 2
+	Query: "sula leucogaster" ; Times: 2
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "15285 chordeiles" ; Times: 1
+	Query: "Amazona finschi" ; Times: 1
+	Query: "LM 1143" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufidorsa genus:ceyx preparations:skin" ; Times: 1
+	Query: "Cacicus chrysopterus mappable:1" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "Polyplectron chalcurum" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "family:Alcidae class:aves locality:san geronimo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Neoxolmis specificepithet:rufiventris" ; Times: 1
+	Query: "otis tarda tarda" ; Times: 1
+	Query: "oreothlypis celata hastissue:1" ; Times: 4
+	Query: "genus:Morus " ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Turdus rufiventris mappable:1" ; Times: 1
+	Query: "family:alcidae locality:san martin" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Oceanodroma hornbyi" ; Times: 5
+	Query: "Cacatua galerita mappable:1" ; Times: 1
+	Query: "puffinus newelli hastissue:1" ; Times: 1
+	Query: "Agelaius thilius mappable:1" ; Times: 1
+	Query: "aves eremita" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "pterodroma hastissue:1" ; Times: 1
+	Query: "Oceanodroma tethys year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 3
+	Query: "vntype:specimen genus:Eudromia preparations:skin AND (NOT immature NOT chick) institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona albifrons mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 9
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Oregon 29240" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "genus:Microligea specificepithet:palustris" ; Times: 1
+	Query: "Prioniturus platenae" ; Times: 1
+	Query: "SDNHM Birds 51874" ; Times: 1
+	Query: "vntype:specimen locality:Saugus stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "pachyptila auckland" ; Times: 3
+	Query: "procellaria" ; Times: 1
+	Query: "genus:Eulampis specificepithet:jugularis" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 2
+	Query: "SDNHM Birds 50806" ; Times: 1
+	Query: "irrorata year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "genus:zosterops stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "Fregetta grallaria grallaria" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "SDNHM Birds 50211" ; Times: 1
+	Query: "SDNHM Birds 50210" ; Times: 1
+	Query: "&#34;Necrosyrtes monachus&#34; and &#34;skeleton&#34;" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "pelagodroma marina auckland" ; Times: 1
+	Query: "SDNHM Birds 47580" ; Times: 1
+	Query: "genus:Synthliboramphus family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "pelagodroma marina maoriana year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:mollissima class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "Pandion AND San Benito NOT Anthony" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Primolius auricollis" ; Times: 2
+	Query: "Amazona agilis" ; Times: 2
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:preciosa genus:Tangara class:Aves" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Strix occidentalis caurina" ; Times: 3
+	Query: "pachyptila vittata" ; Times: 7
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "pachyptila salvini" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis stateprovince:&#34;Baja California&#34; sex:male" ; Times: 1
+	Query: "genus:Lathrotriccus specificepithet:euleri" ; Times: 1
+	Query: "puffinus subalaris" ; Times: 3
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "Pandion AND Todos Santos" ; Times: 1
+	Query: "procellariiformes year &gt;= 1980 year &lt;= 2019 institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Sporopipes specificepithet:squamifrons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 985 download events in this period)
+Total number of records downloaded: 1076
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 10
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 14
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "skin vntype:specimen specificepithet:subcristata genus:Serpophaga class:Aves" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "BIRDS QUITO ECUADOR" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "specificepithet:curvirostra genus:loxia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:ruficeps genus:Pyrrhocoma class:Aves" ; Times: 1
+	Query: "wake atoll" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:contaminatus genus:Heliobletus class:Aves" ; Times: 1
+	Query: "genus:Aphelocoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves" ; Times: 1
+	Query: "Meleagris gallopavo year &gt;= 1980 year &lt;= 1982" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:coronatus genus:Tachyphonus class:Aves" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:melanonota genus:Pipraeidea class:Aves" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caudata genus:Chiroxiphia class:Aves" ; Times: 1
+	Query: "Paradoxornis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:townsendi genus:setophaga year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:euleri genus:Lathrotriccus class:Aves" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:caerulescens genus:Thamnophilus class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:preciosa genus:Tangara class:Aves" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
