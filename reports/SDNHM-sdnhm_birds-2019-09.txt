@@ -1,0 +1,584 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 892
+Number of records retrieved in searches: 3128
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 9
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 841
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 9
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 6
+	Date: 2019-09-13 ; Times: 8
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 13
+	Date: 2019-09-30 ; Times: 20
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-03 ; Times: 15
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 96
+	Date: 2019-09-05 ; Times: 9
+	Date: 2019-09-04 ; Times: 34
+	Date: 2019-09-21 ; Times: 6
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 585
+	Date: 2019-09-22 ; Times: 5
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 9
+	Date: 2019-09-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28650" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28651" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28652" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28653" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28654" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28655" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45116" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53525" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:18780" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:12490" ; Times: 2
+	Query: "specificepithet:notabilis genus:Nestor preparations:skeleton" ; Times: 1
+	Query: "Setophaga auduboni year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:torquatus genus:Atlapetes country:&#34;Costa Rica&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46651" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Monterey&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;San Diego&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28500" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28501" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28502" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28504" ; Times: 2
+	Query: "anthus rubescens year &gt;= 1985 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28506" ; Times: 2
+	Query: "16994." ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52392" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44289" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44288" ; Times: 4
+	Query: "nesofregetta fuliginosa" ; Times: 1
+	Query: "courtoisi" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:2862" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1036" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1031" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28480" ; Times: 2
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1905 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28482" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1038" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1039" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28487" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:40737" ; Times: 4
+	Query: "Anthus rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53762" ; Times: 2
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52534" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:10972" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:48585" ; Times: 7
+	Query: "41235" ; Times: 1
+	Query: "inornatus apache" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52652" ; Times: 2
+	Query: "trogon bairdii" ; Times: 2
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "Holmgren AND Cruz Island AND 1989" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53842" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:42998" ; Times: 2
+	Query: "vireo bellii sdsu" ; Times: 3
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28465" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28464" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28463" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28461" ; Times: 2
+	Query: "oceanites oceanicus chile" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45288" ; Times: 2
+	Query: "aplonis skeleton" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9055" ; Times: 2
+	Query: "Aphelocoma californica Sonoma County" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53589" ; Times: 2
+	Query: "yavapai velox" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49773" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49770" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49771" ; Times: 2
+	Query: "21870" ; Times: 1
+	Query: "alcyon AND Island AND California NOT Rhode NOT York NOT Canada NOT Alaska" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34449" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45637" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8793" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52529" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8794" ; Times: 2
+	Query: "Thryomanes bewickii nesophilus" ; Times: 3
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17022" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17024" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28614" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28616" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28617" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28611" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52442" ; Times: 2
+	Query: "lanius grinnelli" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "locality:tahquitz county:&#34;Riverside&#34; year &gt;= 1953 month &gt;= 6" ; Times: 1
+	Query: "genus:amadina family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "foulehaio skeleton" ; Times: 3
+	Query: "32980" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:43177" ; Times: 2
+	Query: "setophaga coronata nigrifrons" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:43178" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:43179" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53201" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49772" ; Times: 2
+	Query: "Setophaga townsendi month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Harpactes reinwardtii" ; Times: 1
+	Query: "continent:North America (anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 23
+	Query: "bourne w.r.p." ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28549" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28546" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28547" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:42948" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28541" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1040" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1042" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1045" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1044" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1047" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1046" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:1048" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52795" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28649" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28648" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34405" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34406" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34403" ; Times: 2
+	Query: "Myophonus blighi vntype:specimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45677" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45676" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45675" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53438" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45475" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46033" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:10846" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46035" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "Grandala coelicolor sdnhm" ; Times: 1
+	Query: "Pitta brachyura sdnhm" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:39015" ; Times: 2
+	Query: "metallura phoebe" ; Times: 2
+	Query: "Aphelocoma californica San Diego County mission" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34452" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9396" ; Times: 2
+	Query: "specificepithet:cunicularia genus:athene class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:pulverulentus genus:Mulleripicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28517" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28516" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28515" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28514" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28513" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:39306" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28510" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28505" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34450" ; Times: 2
+	Query: "Holmgren AND Cruz Island" ; Times: 2
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52779" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:42314" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:42316" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17234" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17235" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:35401" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28581" ; Times: 6
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8777" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28585" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28586" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28587" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8778" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8856" ; Times: 2
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28677" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28674" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28675" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28672" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28673" ; Times: 2
+	Query: "velox yavapai" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45077" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45076" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45174" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45175" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34451" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45177" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45178" ; Times: 2
+	Query: "class:Aves recordedby:McCaskie" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17016" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17017" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28511" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17018" ; Times: 2
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28603" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28602" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28600" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28609" ; Times: 2
+	Query: "amazilia boucardi" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53185" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53572" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44414" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44413" ; Times: 2
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York NOT Canada NOT Alaska" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46677" ; Times: 2
+	Query: "Setophaga auduboni month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "catalognumber:48526 institutioncode:sdnhm" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28524" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28525" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28521" ; Times: 2
+	Query: "Calidris canutus" ; Times: 10
+	Query: "Trogon bairdii" ; Times: 5
+	Query: "ultramarina 1913" ; Times: 1
+	Query: "genus:Nyctanassa county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:48584" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28558" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:8749" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9283" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52639" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45289" ; Times: 2
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52737" ; Times: 2
+	Query: "specificepithet:bulweri genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "2123 genus:melanerpes" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49765" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49767" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49766" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:50415" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:50414" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:49768" ; Times: 2
+	Query: "locality:Balboa Park" ; Times: 1
+	Query: "genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:sula year &gt;= 2000 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:14146" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:10913" ; Times: 2
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Humboldt&#34; year &gt;= 0 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:43162" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:51646" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:35223" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:35221" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44854" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28561" ; Times: 7
+	Query: "vireo bellii hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28569" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17236" ; Times: 2
+	Query: "genus:Zosterops continent:North America" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45091" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28598" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28597" ; Times: 2
+	Query: "Box Turtle" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:43268" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28593" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28592" ; Times: 2
+	Query: "genus:Plegadis class:Aves catalognumber:50787" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 36
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:41407" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM" ; Times: 2
+	Query: "inornatus yavapai" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45615" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45613" ; Times: 7
+	Query: "Ara ararauna" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28639" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28633" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28631" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28637" ; Times: 2
+	Query: "Gallirallus owstoni year &lt; 1980" ; Times: 2
+	Query: "47798" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:14997" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46066" ; Times: 2
+	Query: "Pelecanus philippensis" ; Times: 1
+	Query: "continent:North America (Anthus Rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sayornis quiescens" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:51673" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:35218" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:35219" ; Times: 2
+	Query: "(anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:tricolor genus:erythrura family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "sdsu vireo bellii hastissue:1" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53829" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52025" ; Times: 2
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "45812" ; Times: 1
+	Query: "Thryomanes bewickii catalinae" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:12491" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:12495" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:VIDUATA genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45291" ; Times: 4
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45290" ; Times: 2
+	Query: "setophaga nigrifrons" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9611" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9612" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9613" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28498" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28499" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28564" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28492" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28491" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28497" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28495" ; Times: 2
+	Query: "recordedby:clark institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28665" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28664" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:46550" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52340" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28662" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52024" ; Times: 2
+	Query: "Urosticte ruficrissa" ; Times: 1
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "specificepithet:oryzivora family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "psophia leucoptera" ; Times: 1
+	Query: "alcyon AND Island AND California NOT York NOT Canada" ; Times: 1
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:10828" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:50659" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28478" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34398" ; Times: 2
+	Query: "Aphelocoma New Mexico Grant County" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; catalognumber:31696 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34396" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34390" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28573" ; Times: 2
+	Query: "hastissue:1 aptenodytes" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53914" ; Times: 2
+	Query: "Aphelocoma californica oregon" ; Times: 1
+	Query: "genus:Bucorvus sex:Female" ; Times: 2
+	Query: "42180" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28579" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53225" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28539" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28538" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28535" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28537" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28536" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28532" ; Times: 2
+	Query: "catalognumber:31696 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44623" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44624" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:2611" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28540" ; Times: 2
+	Query: "32960" ; Times: 1
+	Query: "vireo bellii sdnhm" ; Times: 1
+	Query: "Aphelocoma californica Mendocino County" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:44291" ; Times: 2
+	Query: "15722" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52276" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:10887" ; Times: 2
+	Query: "(anthus rubescens) year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "adler aves" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9654" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45153" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:34474" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53179" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:17033" ; Times: 2
+	Query: "catalognumber:47149 institutioncode:sdnhm" ; Times: 2
+	Query: "Apteryx" ; Times: 2
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28622" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28625" ; Times: 6
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28627" ; Times: 2
+	Query: "harpia harpyja" ; Times: 1
+	Query: "vntype:specimen specificepithet:principalis genus:Campephilus year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52818" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53414" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:54391" ; Times: 2
+	Query: "Anthus Rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Aphelocoma californica San Diego County Escondido" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:53815" ; Times: 2
+	Query: "institutioncode:sdnhm Lepidothrix" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 2
+	Query: "cardinalis affinis" ; Times: 3
+	Query: "Dryocopus pileatus skeleton" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:42347" ; Times: 2
+	Query: "inornatus mohave" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco county:&#34;Contra Costa&#34; year &gt;= 0 institutioncode:SDNHM" ; Times: 1
+	Query: "alcyon AND Island AND California" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28571" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28479" ; Times: 2
+	Query: "genus:sula institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28577" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28576" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28470" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28472" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28473" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28474" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28476" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28477" ; Times: 2
+	Query: "catalognumber:47152 institutioncode:sdnhm" ; Times: 2
+	Query: "52606" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9624" ; Times: 2
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:18579" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:45937" ; Times: 7
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:52817" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:9785" ; Times: 2
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:SDNHM catalognumber:28483" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 6
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1073 download events in this period)
+Total number of records downloaded: 877
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 23
+	Country: Mexico ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 20
+	Date: 2019-09-11 ; Times: 14
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 23
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 7
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "campylorhynchus brunneicapillus hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves locality:machakos year &gt;= 1964 year &lt;= 1990" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "setophaga nigrifrons" ; Times: 1
+	Query: "laterallus albigularis vntype:specimen" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "inornatus apache" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "amazilia boucardi" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "campylorhynchus hastissue:1" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Urosticte ruficrissa" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "celebensis" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+
+
+End of report.
