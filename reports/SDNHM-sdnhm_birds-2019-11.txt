@@ -1,0 +1,395 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 908
+Number of records retrieved in searches: 29214
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 843
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: Denmark ; Times: 6
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Germany ; Times: 5
+	Country: Ecuador ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 75
+	Date: 2019-11-18 ; Times: 17
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-15 ; Times: 17
+	Date: 2019-11-14 ; Times: 72
+	Date: 2019-11-17 ; Times: 17
+	Date: 2019-11-16 ; Times: 59
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-10 ; Times: 16
+	Date: 2019-11-13 ; Times: 11
+	Date: 2019-11-12 ; Times: 8
+	Date: 2019-11-08 ; Times: 156
+	Date: 2019-11-27 ; Times: 8
+	Date: 2019-11-06 ; Times: 21
+	Date: 2019-11-07 ; Times: 224
+	Date: 2019-11-20 ; Times: 10
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 9
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-26 ; Times: 45
+	Date: 2019-11-09 ; Times: 53
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-29 ; Times: 10
+	Date: 2019-11-04 ; Times: 18
+	Date: 2019-11-05 ; Times: 16
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-03 ; Times: 5
+	Date: 2019-11-01 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "54056" ; Times: 1
+	Query: "catalognumber:48881 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2011" ; Times: 4
+	Query: "Empidonax traillii extimus 2015" ; Times: 4
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:California county:San Diego" ; Times: 124
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1989" ; Times: 2
+	Query: "genus:cistothorus hastissue:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey NOT Stephens" ; Times: 9
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1915" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "Polioptila californica californica 1991" ; Times: 4
+	Query: "53812" ; Times: 1
+	Query: "Sternula antillarum browni 2015" ; Times: 3
+	Query: "Sternula antillarum browni 2016" ; Times: 3
+	Query: "Anas platyrhynchos 1915" ; Times: 2
+	Query: "31201" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "Empidonax traillii extimus 1989" ; Times: 4
+	Query: "53498" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9197" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9196" ; Times: 6
+	Query: "16051" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9194" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9193" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9192" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9191" ; Times: 6
+	Query: "Empidonax traillii extimus 1984" ; Times: 4
+	Query: "Vireo bellii pusillus 2013" ; Times: 3
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Polioptila californica californica 2005" ; Times: 4
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "Polioptila californica californica 2007" ; Times: 4
+	Query: "Sitta pygmaea pinos" ; Times: 1
+	Query: "Empidonax traillii extimus 2016" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon AND Hackmeier" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Stephens" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1985" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 4
+	Query: "Anas diazi" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1969" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "genus:Passer year &gt;= 1959 year &lt;= 1964 institutioncode:SDNHM" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1961" ; Times: 1
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "vini" ; Times: 2
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "Sternula antillarum browni 1989" ; Times: 3
+	Query: "Vireo bellii pusillus 2007" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1970" ; Times: 2
+	Query: "SDNHM 51657" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow" ; Times: 2
+	Query: "recordedby:Clark institutioncode:SDNHM" ; Times: 4
+	Query: "24573" ; Times: 1
+	Query: "Vireo bellii pusillus 2009" ; Times: 3
+	Query: "53626" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Bolton NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:49162" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:49161" ; Times: 6
+	Query: "Coccyzus americanus 1996" ; Times: 4
+	Query: "W.C. Sherbrooke" ; Times: 1
+	Query: "Strix occidentalis lucida 2016" ; Times: 3
+	Query: "Strix occidentalis lucida 2015" ; Times: 3
+	Query: "Setophaga pitiayumi nigrilora" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:48994" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:43003" ; Times: 6
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Sternula antillarum browni 1995" ; Times: 3
+	Query: "20532" ; Times: 1
+	Query: "class:aves catalognumber:48881 year:1994 month:6" ; Times: 4
+	Query: "Sternula antillarum browni 1993" ; Times: 3
+	Query: "catalognumber:48881 year &gt;= 1994 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "SDNHM 51665" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Huey" ; Times: 3
+	Query: "19197" ; Times: 1
+	Query: "Sternula antillarum browni 1999" ; Times: 3
+	Query: "Polioptila californica californica 1975" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Stephens" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53947" ; Times: 6
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Sternula antillarum browni 1972" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:31968" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54190" ; Times: 6
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:setophaga country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:48910" ; Times: 6
+	Query: "Vini" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53940" ; Times: 6
+	Query: "Oceanodroma homochroa AND Farallon AND Rugg NOT Bolton NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Pitta sordida year &gt; 1990" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "sdnhm 51608" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 2000" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53939" ; Times: 6
+	Query: "Sternula antillarum browni 1973" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:31965" ; Times: 52
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:31967" ; Times: 6
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coccyzus americanus 1972" ; Times: 4
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54183" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54182" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54181" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Cedros" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54187" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Field" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54185" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54184" ; Times: 6
+	Query: "county:&#34;El Dorado&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54189" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54188" ; Times: 6
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem NOT Huey NOT Stephens" ; Times: 3
+	Query: "52292" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 AND Stephens" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:54186" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:31969" ; Times: 6
+	Query: "43136" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "starnoenas" ; Times: 1
+	Query: "skeletons birds" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:31962" ; Times: 6
+	Query: "Puffinus tenuirostris AND Coronados" ; Times: 1
+	Query: "Oreoscoptes year &gt; 1990" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1896" ; Times: 1
+	Query: "county:&#34;El Dorado&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:california county:San Diego" ; Times: 20
+	Query: "10918" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019 hastissue:1" ; Times: 3
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9195" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9190" ; Times: 6
+	Query: "45051" ; Times: 1
+	Query: "San Diego year &gt;= 2013 year &lt;= 2018 institutioncode:SDNHM" ; Times: 1
+	Query: "Molothrus ater obscurus mappable:1 county:San Diego" ; Times: 6
+	Query: "Vireo bellii pusillus 2001" ; Times: 3
+	Query: "35676" ; Times: 1
+	Query: "Setophaga nigrilora sennett" ; Times: 1
+	Query: "Molothrus ater obscurus county:San Diego" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Van Rossem" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Huey NOT Stephens" ; Times: 2
+	Query: "Polioptila californica californica 1995" ; Times: 4
+	Query: "Polioptila californica californica 1993" ; Times: 4
+	Query: "53454" ; Times: 1
+	Query: "SDNHM 50767" ; Times: 1
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "Vireo bellii pusillus 2006" ; Times: 3
+	Query: "Antrostomus carolinensis year &gt; 1990" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920" ; Times: 7
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1950 institutioncode:SDNHM" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1923" ; Times: 1
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1926" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1928" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1929" ; Times: 1
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 2
+	Query: "geothlypis modesta" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "Brachyramphus marmoratus 2005" ; Times: 5
+	Query: "53460" ; Times: 2
+	Query: "Coccyzus americanus 2005" ; Times: 4
+	Query: "Sternula antillarum browni 1978" ; Times: 3
+	Query: "16053" ; Times: 1
+	Query: "Harpactes mackloti" ; Times: 4
+	Query: "van devender county:&#34;pima&#34;" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:48908" ; Times: 6
+	Query: "Rheidae" ; Times: 1
+	Query: "Polioptila californica californica 1985" ; Times: 4
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:48909" ; Times: 6
+	Query: "Polioptila californica californica 1980" ; Times: 4
+	Query: "Polioptila californica californica 1981" ; Times: 4
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53942" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53943" ; Times: 6
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53941" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9140" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9141" ; Times: 6
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:9142" ; Times: 6
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53948" ; Times: 6
+	Query: "puffinus auricularis" ; Times: 1
+	Query: "class:Aves recordedby:Clark institutioncode:SDNHM" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:48995" ; Times: 6
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 8
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Molothrus ater obscurus stateprovince:california county:san diego" ; Times: 2
+	Query: "Mycteria americana 2011" ; Times: 4
+	Query: "oceanites gracilis galapagos" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "county:&#34;Madera&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "Vireo gilvus brewsteri" ; Times: 1
+	Query: "Sternula antillarum browni 1976" ; Times: 3
+	Query: "tristis jewetti" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:setophaga country:&#34;United States&#34; recordedby:peet" ; Times: 2
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon AND Bolton NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Huey" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Empidonax traillii extimus 2004" ; Times: 4
+	Query: "Falco sparverius AND Guadalupe" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53946" ; Times: 6
+	Query: "rea americana" ; Times: 1
+	Query: "Sternula antillarum browni 1975" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Psaltriparus Oregon. Jackson County." ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "genus:amandava class:aves year &gt;= 1980" ; Times: 2
+	Query: "county:&#34;Calaveras&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53944" ; Times: 6
+	Query: "10565 Mexico" ; Times: 1
+	Query: "genus:eremophila institutioncode:SDNHM catalognumber:53945" ; Times: 6
+	Query: "SDNHM 53030" ; Times: 1
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 3
+	Query: "class:aves recordedby:browning" ; Times: 1
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1950 institutioncode:SDNHM" ; Times: 1
+	Query: "Sternula antillarum browni 2000" ; Times: 3
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1367 download events in this period)
+Total number of records downloaded: 555
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-29 ; Times: 3
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1950 institutioncode:SDNHM" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:setophaga country:&#34;United States&#34; recordedby:peet" ; Times: 1
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1950 institutioncode:SDNHM" ; Times: 1
+
+
+End of report.
