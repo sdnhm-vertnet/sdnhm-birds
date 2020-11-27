@@ -1,0 +1,217 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 3213
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 114
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-26 ; Times: 9
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 7
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-12 ; Times: 9
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 5
+	Date: 2019-12-17 ; Times: 14
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-31 ; Times: 5
+	Date: 2019-12-09 ; Times: 9
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-07 ; Times: 6
+	Date: 2019-12-06 ; Times: 16
+	Date: 2019-12-05 ; Times: 7
+	Date: 2019-12-04 ; Times: 21
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "53319" ; Times: 1
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "marsh new mexico 1885 aves" ; Times: 1
+	Query: "locality:&#34;Little Paradise&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:lachrymosus genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "Eremophila alpestris strigata 2015" ; Times: 6
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "specificepithet:peregrinus class:aves year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "Accipiter striatus AND Island AND California" ; Times: 1
+	Query: "Sterna paradisaea country:&#34;mexico&#34;" ; Times: 3
+	Query: "18569" ; Times: 1
+	Query: "Coahuila Sabinas 1910" ; Times: 1
+	Query: "specificepithet:ornatus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Arborophila orientalis sumatrana sumatrana" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "metallura phoebe" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "Accipiter cooperii AND Guadalupe" ; Times: 1
+	Query: "vntype:specimen specificepithet:columbiana genus:Nucifraga stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:clangula genus:bucephala country:&#34;mexico&#34;" ; Times: 2
+	Query: "32093" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Pseudocolopteryx mappable:1" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "Stercorarius pomarinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Balaeniceps rex" ; Times: 2
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pagodroma" ; Times: 1
+	Query: "specificepithet:californica genus:callipepla stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 2
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:torquata genus:chauna class:aves hasmass:1" ; Times: 1
+	Query: "Archilochus alexandri 1979" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "24368" ; Times: 1
+	Query: "junco pennsylvania" ; Times: 3
+	Query: "specificepithet:magellanicus genus:Scytalopus mappable:1" ; Times: 1
+	Query: "205 specificepithet:aedon genus:troglodytes" ; Times: 2
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "locality:Potrero county:&#34;Riverside&#34;" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "Euphagus AND Coronado" ; Times: 1
+	Query: "locality:&#34;Agua Bonita&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Arborophila orientalis" ; Times: 2
+	Query: "specificepithet:pamela genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "Phodilus badius" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "zosterops county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "205 genus:troglodytes" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "recordedby:Brown institutioncode:SDNHM" ; Times: 2
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:california county:San Diego" ; Times: 10
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "specificepithet:leucocephala genus:Halcyon class:Aves country:&#34;Kenya&#34; continent:Africa" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "Polioptila californica" ; Times: 6
+	Query: "23783" ; Times: 1
+	Query: "SDNHM 22416" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "distance(location,geopoint(33.64600300932662,-116.5122974113039))&lt;4107" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides mappable:1" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "specificepithet:rufus genus:Furnarius mappable:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "Thryomanes bewickii marin county nicasio" ; Times: 1
+	Query: "distance(location,geopoint(33.64600300932662,-116.5122974113039))&lt;1873" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "distance(location,geopoint(33.64600300932662,-116.5122974113039))&lt;2693" ; Times: 1
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:falco continent:south america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Arborophila sumatrana" ; Times: 3
+	Query: "Accipiter AND Island AND California" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "vntype:specimen specificepithet:livingstonii genus:Tauraco" ; Times: 1
+	Query: "distance(location,geopoint(33.68699600922203,-116.51206309256588))&lt;3454" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Anser albifrons gambelli" ; Times: 1
+	Query: "Arborophila orientalis sumatrana" ; Times: 3
+	Query: "wells santa rosa valley california" ; Times: 1
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "locality:Dos Palmas county:&#34;Riverside&#34;" ; Times: 2
+	Query: "anhima cornuta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 596 download events in this period)
+Total number of records downloaded: 1428
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Hong Kong ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "spinus tristis jewetti" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "locality:Pinyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 1
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:columbiana genus:Nucifraga stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis salicamans" ; Times: 1
+
+
+End of report.
