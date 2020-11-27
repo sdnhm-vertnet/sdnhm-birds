@@ -1,0 +1,274 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1093
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 101
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ireland ; Times: 13
+	Country: Paraguay ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Hong Kong ; Times: 3
+	Country: Argentina ; Times: 20
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 6
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-21 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 7
+	Date: 2020-05-10 ; Times: 7
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 9
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 11
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 6
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-09 ; Times: 6
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 42
+	Date: 2020-05-06 ; Times: 14
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 13
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:male" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:fasciata genus:Chamaea institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "genus:Nomonyx country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:juvenile sex:female" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 4
+	Query: "SDNHM Turdus" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cochoa" ; Times: 2
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "genus:Toxostoma stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "51940" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "genus:Micrathene stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "SDNHM 944 Passerculus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Junco hyemalis simillimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:fasciata genus:Chamaea institutioncode:SDNHM" ; Times: 3
+	Query: "vultur gryphus" ; Times: 6
+	Query: "specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "genus:Pica county:&#34;Ventura&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "aimophila sororia" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "Halcyon OR Todiramphus cinnamominus" ; Times: 1
+	Query: "specificepithet:fasciata genus:Patagioenas stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "Selasphorus calliope hastissue:1" ; Times: 1
+	Query: "(moffett)" ; Times: 1
+	Query: "gypaetus" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "quiscalus minnesota" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:female" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:male" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:male" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "genus:Diomedea institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:viduata genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "Burhinus indicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:albatrus genus:Phoebastria institutioncode:SDNHM" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "genus:oreortyx stateprovince:&#34;california&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "SDNHM 51591" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:male" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "hybrid specificepithet:pictus genus:Chrysolophus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 7
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "SDNHM 944" ; Times: 1
+	Query: "genus:Vultur" ; Times: 5
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "genus:Chamaea institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "genus:Phoebastria institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 8
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:female" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "toxostoma trinitatis" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1106 download events in this period)
+Total number of records downloaded: 2091
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-01 ; Times: 4
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "Goiás vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:fasciata genus:Chamaea institutioncode:SDNHM" ; Times: 1
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "genus:Toxostoma stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+
+
+End of report.
