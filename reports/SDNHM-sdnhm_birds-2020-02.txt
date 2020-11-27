@@ -1,0 +1,318 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 288
+Number of records retrieved in searches: 2150
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 163
+	Country: Netherlands ; Times: 1
+	Country: Uruguay ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 21
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 57
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-24 ; Times: 20
+	Date: 2020-02-03 ; Times: 10
+	Date: 2020-02-26 ; Times: 27
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 45
+	Date: 2020-02-21 ; Times: 36
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 11
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 12
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 11
+	Date: 2020-02-17 ; Times: 20
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 9
+	Date: 2020-02-18 ; Times: 10
+	Date: 2020-02-02 ; Times: 10
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 8
+	Date: 2020-02-06 ; Times: 6
+	Date: 2020-02-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Synthliboramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "circus hudsonius hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:a. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "oceanodroma san benito year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "oceanites exasperatus" ; Times: 2
+	Query: "neochen jubata" ; Times: 10
+	Query: "setophaga coronata nigrifrons" ; Times: 1
+	Query: "coracopsis nigra" ; Times: 2
+	Query: "catalognumber:3105 institutioncode:SDNHM" ; Times: 2
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 1
+	Query: "Oceanodroma markhami" ; Times: 3
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1907" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "Oceanodroma los coronados" ; Times: 2
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "oceanodroma los coronados year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "catalognumber:34291 institutioncode:SDNHM" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 8
+	Query: "14846" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "butastur liventer vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "carpodacus sonoriensis" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1903 year &lt;= 1905" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 5
+	Query: "26637" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Vireo gilvus victoriae" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "Strix seloputo" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "oceanodroma chapmani year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Anas diazi" ; Times: 18
+	Query: "28572" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Vireo huttoni riverside" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:SDNHM" ; Times: 1
+	Query: "markhami" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:castaneiceps hastissue:1" ; Times: 1
+	Query: "procellariiformes institutioncode:SDNHM" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020 SDNHM" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 2
+	Query: "33720 Aves" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Sitta carolinensis lagunae" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "procellariiformes year &gt;= 1980 year &lt;= 2020 institutioncode:SDNHM" ; Times: 3
+	Query: "buteo plagiatus year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1907" ; Times: 1
+	Query: "Penelope pileata" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex Walker" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 7
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:SDNHM" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1930 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coeligena iris" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "Oceanodroma homochroa sdnhm" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 2
+	Query: "26386" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:SDNHM" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "oceanites oceanicus exasperatus" ; Times: 2
+	Query: "megapodius freycinet" ; Times: 3
+	Query: "recordedby:Picchi" ; Times: 2
+	Query: "Polioptila margaritae vntype:specimen" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:sherwood" ; Times: 2
+	Query: "Aratinga guarouba" ; Times: 1
+	Query: "sdsu 4351" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "Oceanites galapagos" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:lee year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 5
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 2
+	Query: "39229" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "cardinalis townsendi" ; Times: 4
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:SDNHM" ; Times: 1
+	Query: "Banning institutioncode:SDNHM" ; Times: 1
+	Query: "Gallus varius" ; Times: 2
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 2
+	Query: "specificepithet:regalis genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus)" ; Times: 1
+	Query: "genus:Molothrus stateprovince:&#34;California&#34; year &lt;= 1910" ; Times: 1
+	Query: "cardinalis seftoni" ; Times: 2
+	Query: "genus:Synthliboramphus family:Alcidae locality:Negro country:&#34;Mexico&#34;" ; Times: 1
+	Query: "recordedby:turman institutioncode:SDNHM" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Oceanodroma chapmani year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "Banning county:&#34;Riverside&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "daption new zealand" ; Times: 3
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Oceanodroma leucorhoa SDNHM" ; Times: 4
+	Query: "fulmarus greenland" ; Times: 1
+	Query: "butastur liventer vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:paradiseus genus:dicrurus hastissue:1" ; Times: 1
+	Query: "SDNHM Birds 51874" ; Times: 1
+	Query: "specificepithet:pyrolophus genus:psilopogon hastissue:1" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34; (Negro)" ; Times: 1
+	Query: "Neochen jubata" ; Times: 2
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "41652" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:neochen preparations:skeleton" ; Times: 10
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1960 year &lt;= 2000" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "Larus delawarensis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1910 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "SDNHM Birds 50806" ; Times: 1
+	Query: "SDNHM Birds 50807" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "specificepithet:montanus genus:pomatorhinus hastissue:1" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; catalognumber:35256 (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:SDNHM" ; Times: 1
+	Query: "Attila spadiceus pacificus" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 3
+	Query: "Oceanites gracilis" ; Times: 2
+	Query: "specificepithet:alcyon genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Sherwood" ; Times: 3
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "puffinus subalaris" ; Times: 2
+	Query: "Oceanodroma tethys" ; Times: 4
+	Query: "hylophilus pallidipectus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1023 download events in this period)
+Total number of records downloaded: 3611
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 35
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 8
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "Cardellina rubra rubra" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "setophaga coronata nigrifrons" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1960 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "Gallus varius" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; institutioncode:SDNHM hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; catalognumber:35256 (Guadalupe) AND (NOT aleuticus NOT monocerata) institutioncode:SDNHM" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+
+
+End of report.
