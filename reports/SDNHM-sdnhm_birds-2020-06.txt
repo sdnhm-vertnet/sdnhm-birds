@@ -1,0 +1,197 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 1670
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 47
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 40
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 38
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 8
+	Date: 2020-06-08 ; Times: 13
+	Date: 2020-06-09 ; Times: 14
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 22
+	Date: 2020-06-04 ; Times: 29
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-11 ; Times: 18
+	Date: 2020-06-03 ; Times: 7
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-12 ; Times: 3
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Vultur gryphus" ; Times: 4
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:synthliboramphus distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;100000" ; Times: 1
+	Query: "Anas luzonica" ; Times: 2
+	Query: "Anas strepera" ; Times: 6
+	Query: "family:Alcidae locality:Guadalupe (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi)" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Thalasseus elegans mass OR weight" ; Times: 2
+	Query: "family:Alcidae distance(location,geopoint(29.005973938083642,-118.0798416514881))&lt;100000" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;100000" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "Tyto alba mass OR weight" ; Times: 2
+	Query: "vanellus crassirostris" ; Times: 1
+	Query: "Hemithraupis guira" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; hastissue:1" ; Times: 2
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Strix occidentalis lucida" ; Times: 3
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT aleuticus)" ; Times: 1
+	Query: "(hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "catalognumber:49472 institutioncode:SDNHM" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(29.026960094048103,-118.26626588590443))&lt;100000" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 5
+	Query: "(Synthliboramphus OR Brachyramphus OR Endomychura OR hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi OR craveri) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca) distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "specificepithet:hypoleucus distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "Epimachus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:hypoleucus locality:Guadalupe" ; Times: 4
+	Query: "Alcidae distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 2
+	Query: "family:Alcidae distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "specificepithet:hypoleucus country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;37988" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "family:Alcidae (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi OR craveri) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "cardinalis townsendi" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "genus:synthliboramphus locality:Guadalupe" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 4
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "genus:Glaucidium preparations:Skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "Microhierax caerulescens" ; Times: 2
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca) distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "order:Charadriiformes distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri)" ; Times: 1
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Hypopyrrhus" ; Times: 2
+	Query: "Icteria virens longicauda" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "order:Charadriiformes distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Anas formosa" ; Times: 6
+	Query: "honeybee" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "(hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 5
+	Query: "Aythya novaeseelandiae vntype:specimen hastissue:1" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "(hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;100000" ; Times: 1
+	Query: "genus:synthliboramphus distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;100000" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 474 download events in this period)
+Total number of records downloaded: 1011
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 18
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-10 ; Times: 28
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:leucopogon order:galliformes" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi)" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "order:Charadriiformes distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;100000" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "box turtle" ; Times: 2
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+
+
+End of report.
