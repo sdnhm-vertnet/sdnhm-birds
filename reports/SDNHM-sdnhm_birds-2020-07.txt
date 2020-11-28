@@ -1,0 +1,240 @@
+Report for Institution Code SDNHM, Resource sdnhm_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1019
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 59
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 45
+	Country: Unknown ; Times: 19
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: Paraguay ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 12
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 8
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 6
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 17
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 6
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-31 ; Times: 11
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-22 ; Times: 42
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "catalognumber:45647 institutioncode:SDNHM" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "40497" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 1
+	Query: "catalognumber:23457 institutioncode:SDNHM" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "catalognumber:45648 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "Accipiter gentilis arizona hastissue:1" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "sdnhm lucidus" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 2
+	Query: "catalognumber:23679 institutioncode:SDNHM" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34; year &gt;= 1941 year &lt;= 1942" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco locality:providence county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "catalognumber:27147 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:javanica order:galliformes" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "pipra chloromeros" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "catalognumber:23678 institutioncode:SDNHM" ; Times: 3
+	Query: "13222" ; Times: 1
+	Query: "catalognumber:45645 institutioncode:SDNHM" ; Times: 4
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 3
+	Query: "19966" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Orange&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "niltava griseiventris" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "catalognumber:23104 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:41071 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:16925 institutioncode:SDNHM" ; Times: 2
+	Query: "Larus vegae united states" ; Times: 2
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "buteo harlani california" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "catalognumber:45646 institutioncode:SDNHM" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Todiramphus juliae" ; Times: 1
+	Query: "gbifdatasetid:84b26828-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "Psittacus erithacus timneh" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "catalognumber:44284 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Tonga" ; Times: 2
+	Query: "21252" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "catalognumber:23691 institutioncode:SDNHM" ; Times: 1
+	Query: "Larus atlanticus" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "catalognumber:45644 institutioncode:SDNHM" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "genus:Psarisomus preparations:skeleton" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34; year &gt;= 1942 year &lt;= 1945" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "41449" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 940 download events in this period)
+Total number of records downloaded: 1243
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 6
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 9
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "specificepithet:philbyi order:galliformes" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Orange&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+
+
+End of report.
